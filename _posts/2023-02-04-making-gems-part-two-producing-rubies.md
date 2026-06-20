@@ -6,6 +6,8 @@ author: Dagmar Wujastyk
 permalink: /blog/making-gems-part-two-producing-rubies/
 ---
 
+![](/assets/images/posts/false_ruby_92.jpg)
+
 ## Making rubies
 
  

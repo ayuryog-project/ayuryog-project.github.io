@@ -6,6 +6,8 @@ author: Dagmar Wujastyk
 permalink: /blog/publication-transmutations-rejuvenation-longevity-immortality/
 ---
 
+![](/assets/images/posts/andrew_mason_mercury_1_0.jpg)
+
 We are delighted to announce the publication of a special issue of *History of Science in South Asia*, edited by Dagmar Wujastyk, Suzanne Newcombe and Christèle Barois: **Transmutations: Rejuvenation, Longevity, and Immortality Practices in South and Inner Asia**.
 
 The issue can be accessed at [https://journals.library.ualberta.ca/hssa/index.php/hssa](https://journals.library.ualberta.ca/hssa/index.php/hssa)
@@ -20,7 +22,11 @@ The issue can be accessed at [https://journals.library.ualberta.ca/hssa/index.ph
 
 ## Editorial
 
+- 
+
 [Transmutations: Rejuvenation, Longevity, and Immortality Practices in South and Inner Asia ](https://journals.library.ualberta.ca/hssa/index.php/hssa/article/view/33)
 
 Dagmar Wujastyk, Suzanne Newcombe, Christèle Barois
+
+
 i-xvii

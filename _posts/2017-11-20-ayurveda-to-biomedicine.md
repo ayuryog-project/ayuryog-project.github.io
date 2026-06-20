@@ -6,6 +6,8 @@ author: Suzanne Newcombe
 permalink: /blog/ayurveda-biomedicine-understanding-human-body/
 ---
 
+![](/assets/images/posts/file-20171117-7579-fulr11_0.jpg)
+
 From Ayurveda to biomedicine: understanding the human body
 
 Courtesy of Wellcome Collection

@@ -6,6 +6,8 @@ author: Dagmar Wujastyk
 permalink: /blog/preparing-ingredients-fifth-procedure/
 ---
 
+![](/assets/images/posts/copper_for_teaser_image.jpg)
+
 **Preparing ingredients for the fifth procedure**
 
  
@@ -24,13 +26,13 @@ One of the innovations of Indian alchemy is the concept of processing materials 
 
 There are different ways of purifying copper, and Andrew tried out different versions. We weren’t quite sure what the copper available to alchemists would have looked like. India has a very long history of metallurgy and it is likely that copper was available on the market in sheets or as a powder, though it may have been necessary for alchemists to procure copper from its natural source.
 
-![https://www.ayuryog.org/sites/default/files/copper_raw.jpg](/assets/images/posts/copper_raw.jpg)
+![http://www.ayuryog.org/sites/default/files/copper_raw.jpg](/assets/images/posts/copper_raw.jpg)
 
 [*Copper* *is one of the few metals that can occur in nature in a directly usable metallic form*]
 
 Andrew started out by using sheets of copper.
 
-![https://www.ayuryog.org/sites/default/files/untreated_copper_sheets.jpg](/assets/images/posts/untreated_copper_sheets.jpg)
+![http://www.ayuryog.org/sites/default/files/untreated_copper_sheets.jpg](/assets/images/posts/untreated_copper_sheets.jpg)
 
 [*Untreated copper sheets*]
 
@@ -38,11 +40,11 @@ Andrew started out by using sheets of copper.
 
 [*Copper sheets are coated with salt and lemon juice and roasted*]
 
-![https://www.ayuryog.org/sites/default/files/copper_boiled_in_urine.jpg](/assets/images/posts/copper_boiled_in_urine.jpg)
+![http://www.ayuryog.org/sites/default/files/copper_boiled_in_urine.jpg](/assets/images/posts/copper_boiled_in_urine.jpg)
 
 [*Copper sheets boiling in urine with five salts*]
 
-![https://www.ayuryog.org/sites/default/files/copper_sheets_after_treatment.jpg](/assets/images/posts/copper_sheets_after_treatment.jpg)
+![http://www.ayuryog.org/sites/default/files/copper_sheets_after_treatment.jpg](/assets/images/posts/copper_sheets_after_treatment.jpg)
 
 [*Copper sheets after treatment*]
 
@@ -52,27 +54,27 @@ Andrew started out by using sheets of copper.
 
 But then the rasashastra practitioners from India told him they would use copper powder for the mercury-copper paste, so he decided to make copper powder.
 
-![https://www.ayuryog.org/sites/default/files/copper_in_furnace.jpg](/assets/images/posts/copper_in_furnace.jpg)
+![http://www.ayuryog.org/sites/default/files/copper_in_furnace.jpg](/assets/images/posts/copper_in_furnace.jpg)
 
-![https://www.ayuryog.org/sites/default/files/copper_in_furnace_2.jpg](/assets/images/posts/copper_in_furnace_2.jpg)
+![http://www.ayuryog.org/sites/default/files/copper_in_furnace_2.jpg](/assets/images/posts/copper_in_furnace_2.jpg)
 
 [*Making copper powder: copper sheets are melted in a furnace*]
 
 The copper powder is then subjected to a different purification procedure as well.
 
-![https://www.ayuryog.org/sites/default/files/copper_powder_dolayantra.jpg](/assets/images/posts/copper_powder_dolayantra.jpg)
+![http://www.ayuryog.org/sites/default/files/copper_powder_dolayantra.jpg](/assets/images/posts/copper_powder_dolayantra.jpg)
 
 [*Copper powder is boiled in a ‘swing-device’* (*dolāyantra*]
 
-![https://www.ayuryog.org/sites/default/files/copper_powder_dolayantra_2.jpg](/assets/images/posts/copper_powder_dolayantra_2.jpg)
+![http://www.ayuryog.org/sites/default/files/copper_powder_dolayantra_2.jpg](/assets/images/posts/copper_powder_dolayantra_2.jpg)
 
 [*The colour of the liquid changes as the copper is boiled*]
 
-![https://www.ayuryog.org/sites/default/files/copper_powder_after_procedure.jpg](/assets/images/posts/copper_powder_after_procedure.jpg)
+![http://www.ayuryog.org/sites/default/files/copper_powder_after_procedure.jpg](/assets/images/posts/copper_powder_after_procedure.jpg)
 
 [*Copper powder after the procedure*]
 
-![https://www.ayuryog.org/sites/default/files/copper_powder_final.jpg](/assets/images/posts/copper_powder_final.jpg)
+![http://www.ayuryog.org/sites/default/files/copper_powder_final.jpg](/assets/images/posts/copper_powder_final.jpg)
 
 [*Washed copper powder*]
 

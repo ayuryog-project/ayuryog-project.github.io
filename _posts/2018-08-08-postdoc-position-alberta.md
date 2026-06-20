@@ -6,6 +6,8 @@ author: Dagmar Wujastyk
 permalink: /blog/history-south-asian-alchemy-post-doctoral-position/
 ---
 
+![](/assets/images/posts/loha-1.jpg)
+
 We are currently seeking a post-doctoral researcher to join the AyurYog project ([www.ayuryog.org](https://www.ayuryog.org/)) at the [department for History and Classics](https://www.ualberta.ca/history-classics) at the University of Alberta, in Edmonton, Alberta, Canada. The AyurYog project examines the connected histories of yoga, ayurveda and rasaśāstra (Indian alchemy and iatrochemistry) from the tenth century to the present. The successful applicant will be expected to
 
  -- conduct original research on the connected histories of alchemy, yoga and medicine in South Asia,
@@ -44,7 +46,7 @@ Forward your covering letter, CV and contact information for three references to
 
 Dagmar Wujastyk, PhD (Principal Investigator, Ayuryog)
 
-[[email&#160;protected]](/cdn-cgi/l/email-protection#a3c7c2c4cec2d18dd4d6c9c2d0d7dac8e3d6c2cfc1c6d1d7c28dc0c2)   
+[[email protected]](/cdn-cgi/l/email-protection#117570767c70633f66647b706265687a5164707d73746365703f7270)   
 
  
 

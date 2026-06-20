@@ -6,6 +6,8 @@ author: Dagmar Wujastyk
 permalink: /blog/workshop-rasayana-kayakalpa-bcud-len/
 ---
 
+![](/assets/images/posts/bronze-shodhana-1_0.jpg)
+
 The two-day workshop explored the historically linked South and Inner Asian practices of rasāyana, kāyakalpa and bcud len.  These are practices, treatment techniques and formulations aimed at a variety of goals that range from prolonging life, restoring youthfulness, and promoting physical health, to accessing special powers, achieving enlightenment, and attaining immortality.
 
 Early accounts of such practices are found in Sanskrit medical, alchemical and yoga literature; Tamil Siddha medical literature; and Tibetan Buddhist literature. Variations of these practices are still found as part of South and Inner Asian medicine, yogic techniques and Buddhist practices.

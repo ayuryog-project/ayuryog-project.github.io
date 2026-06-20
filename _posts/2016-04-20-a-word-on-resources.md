@@ -6,6 +6,8 @@ author: Dagmar Wujastyk
 permalink: /blog/word-resources/
 ---
 
+![](/assets/images/posts/hellwigbookcover.jpg)
+
 In new research projects, one sets out to cover new ground, explore the unknown, make exciting discoveries, and set the record straight on some previous assumptions. With this focus on discovering the new, it is easy to forget just how much of research depends on work already done by others.
 
 Thinking about indispensable tools to my own research, I would like to mention a work that I have found extremely helpful for learning about Indian alchemy and its literature: [Oliver Hellwig's *W*ö*rterbuch der Mittelalterlichen Indischen Alchemie* (“*Dictionary of Medieval Indian Alchemy*”). EJournal of Indian Medicine Supplements 2. Barkhuis & University of Groningen, 2009. ](http://www.barkhuis.nl/product_info.php?products_id=97)

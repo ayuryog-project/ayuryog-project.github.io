@@ -6,6 +6,8 @@ author: Dagmar Wujastyk
 permalink: /blog/making-coral-second-and-third-try/
 ---
 
+![](/assets/images/posts/red_coral_2small_0.jpg)
+
 With the colour and texture of our first batch of artificial coral not quite right, we embarked on a second (and actually also third) round of experiments. Here’s a quick reminder of the recipe from the *Rasaprakāśasudhākara* (chapter 11, verses 138-140)
 
  

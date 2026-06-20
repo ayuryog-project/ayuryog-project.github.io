@@ -6,6 +6,8 @@ author: Patricia Sauthoff
 permalink: /blog/visualizing-alchemical-spaces/
 ---
 
+![](/assets/images/posts/alchemy_lab.png)
+
 On the fifth floor Science and Technology Heritage gallery of the National Science Center, Delhi, a small diorama shows some of the instruments used by South Asian alchemists. This diorama shows a cluttered space, full of *yantra*s (apparatuses) and ovens. An [online version](https://artsandculture.google.com/exhibit/rasashala-ancient-indian-alchemical-lab/KwJCaP1RF0y-KQ) of the exhibit goes into detail about how these apparatuses functioned. What it does not tell us, however, are some of the details found in medieval alchemical texts about the layout and surroundings of this important alchemical space. 
 
 In addition to the lab (*rasaśālā*), texts mention two other alchemical spaces: the temple or pavilion (*rasamaṇḍapa*) and hut (*kuṭi*). Each of these spaces are described in detail in different texts and have separate purposes. The alchemist prepares medicines in the *rasaśālā*, purifies himself and the alchemical ingredients in the *rasamaṇḍapa*, and the appeasement of deities through the use of mantra, maṇḍala, and yantra in the *kuṭi*. 

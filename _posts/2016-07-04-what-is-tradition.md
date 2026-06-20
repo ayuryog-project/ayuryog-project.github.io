@@ -6,6 +6,8 @@ author: Suzanne Newcombe
 permalink: /blog/what-is-tradition-entanglements-metaphors/
 ---
 
+![](/assets/images/posts/yoga_chart.jpg)
+
 This popular image of the ‘Yoga Poster’ ([http://theyogaposter.com/](http://theyogaposter.com/)) depicts the history of yoga as that of a branching tree with its roots in the ‘Vedic Period’ and leaves which could potentially include all the forms of yoga in existence today.  As Singleton and Jain have pointed out, by anchoring a contemporary belief-practice in an ancient tradition, a “touchstone of authenticity” is created (Singleton 2010 and Jain 2015). Practices of yoga and ayurveda are justified in new global contexts with an appeal to tradition, while national discourse within India also emphasizes the authenticity and validity of yoga and ayurveda as pre-colonial knowledge. There is often an assumption that a tradition involves a linear progression from teacher to student, from guru to *śiṣya*, and that the yoga traditions with an unbroken *paramparā* are somehow more pure or authentic than others.
 
  

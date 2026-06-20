@@ -6,6 +6,8 @@ author: Dagmar Wujastyk
 permalink: /blog/aurifiction-revisited/
 ---
 
+![](/assets/images/posts/gold_2_001.jpg)
+
 **Aurifiction revisited**
 
 We are nearing the end of this series of experiments. But before we wrap up with one last recipe, we want to revisit one we did before: A recipe for imitating gold from the *Rasaprakāśasudhākara*.

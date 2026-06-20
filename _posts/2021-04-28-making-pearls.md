@@ -6,6 +6,8 @@ author: Dagmar Wujastyk
 permalink: /blog/reconstructing-indian-alchemy-making-pearls/
 ---
 
+![](/assets/images/posts/fish_pearls_7_0.jpg)
+
 **Pearls from fish eyes**
 
  

@@ -6,6 +6,8 @@ author: Dagmar Wujastyk
 permalink: /blog/fifth-procedure-letting-fall/
 ---
 
+![](/assets/images/posts/copper_contaminated.jpg)
+
 Nine months into this experiment, we have arrived at the fifth procedure: *pātana*. This procedure is meant to rid the mercury once and for all of any residual amounts of tin and lead, which are understood as contaminants that render mercury poisonous. The procedure involves preparing a copper-mercury mixture. That is, the text only speaks of a copper paste (*śulbapiṣṭi*) and we can only infer that this paste must contain the previously processed mercury.
 
 **Having prepared a copper paste, a condensation procedure is conducted because of suspicion of remaining lead and tin. And, freed of its faults in this way, the cleansed mercury condenses.**

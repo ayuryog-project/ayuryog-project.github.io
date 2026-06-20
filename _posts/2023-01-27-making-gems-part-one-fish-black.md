@@ -6,6 +6,8 @@ author: Dagmar Wujastyk
 permalink: /blog/making-gems-part-one-fish-black-matsyakajjala/
 ---
 
+![](/assets/images/posts/peepal_lac-reduced_0.jpg)
+
 # Making gems. Part one: fish black
 
  

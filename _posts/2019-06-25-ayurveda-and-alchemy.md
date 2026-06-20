@@ -6,6 +6,8 @@ author: Dagmar Wujastyk
 permalink: /blog/ayurveda-and-alchemy/
 ---
 
+![](/assets/images/posts/maksika_shodhana_in_triphala_decoction.png)
+
 For many, Ayurveda is associated with natural remedies based on herbs, massages and cleansing treatments, and above all, with a healthy lifestyle of balanced nutrition and self-care. Ayurveda is indeed all that, but also much more. One of Ayurveda’s less well-known aspects is its historical connection with Indian alchemy, or Rasashastra (= *rasaśāstra*). The medical elements of Rasashastra survive to this day as they have been incorporated into formal ayurvedic education in India: Rasashastra is now considered a subsidiary discipline  of Ayurveda and a specialist practice, with a range of its traditional formulations produced by pharmaceutical companies and available as over-the-counter and prescription medicines.
 
  

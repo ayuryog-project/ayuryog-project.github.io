@@ -6,6 +6,8 @@ author: Dagmar Wujastyk
 permalink: /blog/publication-mercury-medicine-across-asia-and-beyond/
 ---
 
+![](/assets/images/posts/sam_3151_0.jpg)
+
 We are very pleased to announce the newly published special volume of Asiatische Studien/Etudes Asiatiques: "[Histories of Mercury in Medicine Across Asia and Beyond](http://www.degruyter.com/view/j/asia.2015.69.issue-4/issue-files/asia.2015.69.issue-4.xml)", edited by Dagmar Wujastyk.
 
 Mercury is today recognized as a harmful environmental pollutant and one of the world's most dangerous elemental toxins. And yet, it was long considered a near-miraculous substance capable of eradicating the most severe diseases. The medical use of quicksilver (liquid metallic mercury) is already documented in ancient Greek, Indian, Persian, Arabic and Chinese treatises on medicine and alchemy. Particularly early instances of procedures for preparing mercury compounds are found in Chinese medicine.

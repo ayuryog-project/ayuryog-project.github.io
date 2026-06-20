@@ -6,16 +6,18 @@ author: Dagmar Wujastyk
 permalink: /blog/reconstructing-alchemical-procedures-sixth-procedure-reviving-nirodha/
 ---
 
+![](/assets/images/posts/nirodh.jpg)
+
 **The sixth procedure, 'reviving' (nirodhā)**
 
  
 
 The fifth procedure was complicated and took a lot of preparation. The next and sixth procedure, the 'reviving' (Sanskrit: *nirodhā*) of mercury, is much simpler and takes little work. The term *nirodhā* normally means 'restraint' or 'suppression'. However, in this context, it is understood as a synonym for '*bodhana*', 'awakening'. Some texts call this step '*bodhana*' others* nirodhana*, or *rodhana*. In all texts, the purpose of this procedure is to reinvigorate the mercury after its potency has been weakened with the foregoing cleansing procedures. The *Rasahṛdayatantra* states:
 
-
  
-**It is rendered useless through trituration, thickening and condensation because of its weak potency. Once it has become replenished through revivification with *sṛṣṭyambuja* (water and salt?), it will no longer be impotent.**
 
+
+**It is rendered useless through trituration, thickening and condensation because of its weak potency. Once it has become replenished through revivification with *sṛṣṭyambuja* (water and salt?), it will no longer be impotent.**
 
 (*Rasahṛdayatantra*, chapter 2, verse 9)
 

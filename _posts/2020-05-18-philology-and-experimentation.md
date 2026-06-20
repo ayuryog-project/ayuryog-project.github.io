@@ -6,6 +6,8 @@ author: Dagmar Wujastyk
 permalink: /blog/philology-and-experimentation-reconstructing-alchemical-procedures/
 ---
 
+![](/assets/images/posts/svedana.jpg)
+
 **The first procedure: Steaming mercury**
 
 The AyurYog project's work on the premodern period is mainly philological: we translate works written in Sanskrit and analyze their contents. In the case of alchemy (Sanskrit: *rasaśāstra* = rasashastra), we have a large body of literature to consult that begins around the tenth century CE and continues well into the twentieth century. Rasashastra is also a living tradition. Today, the medical aspects of this discipline survive as a subdiscipline of Ayurveda: One can study rasashastra at university as part of the ayurvedic curriculum. There is also ongoing research activity in the field and an associated pharmaceutical industry. Many recipes found in obscure medieval texts still inform pharmaceutical production processes. However, modern rasashastra drug manufacture typically applies simplified procedures, omitting many of the processing steps described in the early alchemical works. Having long fallen out of use, our knowledge of the original procedures is now somewhat limited. And this is where philological work and experience-based experimentation can provide some insight.

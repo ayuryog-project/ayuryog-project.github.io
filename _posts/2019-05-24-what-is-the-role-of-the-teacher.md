@@ -6,12 +6,14 @@ author: Dagmar Wujastyk
 permalink: /blog/what-role-teacher/
 ---
 
+![](/assets/images/posts/sritattvanidhi_asana_no._86_viratasana.jpg)
+
 *This blogpost was co-written by Dagmar Wujastyk, **Jason Birch, and Jacqueline Hargreaves. A parallel version can be found at [The Luminescent](https://www.theluminescent.org/2019/05/what-is-role-of-teacher.html). A pdf version can be found [here](https://drive.google.com/file/d/1G-KWSrbxXAUhKa79OZeoZD9FRF-pXLej/view?usp=sharing).*
 
-##  
+## 
 
 
-##  
+## 
 
  
 

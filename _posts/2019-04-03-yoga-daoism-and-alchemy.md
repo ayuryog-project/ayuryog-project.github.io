@@ -6,6 +6,8 @@ author: Christèle Barois
 permalink: /blog/yoga-daoism-and-alchemy/
 ---
 
+![](/assets/images/posts/img_3420.jpg)
+
 An entire week of public events at the [Centre of Yoga Studies at SOAS](https://www.soas.ac.uk/yoga-studies/events/25mar2019-soas-centre-of-yoga-studies---yoga-studies-week.html) (25-29 March 2019) was organised around a two-day workshop held by Suzanne Newcombe (Ayuryog/Inform/Open University) and Karen O'Brien-Kop (SOAS) aptly titled “Disciplines and Dialogue: The Future of Yoga and Meditation Studies,” with in-depth discussions on the different disciplinary approaches to studying yoga and meditation in the humanities, sciences, and social sciences. Most of those at the workshop will be contributors to the forthcoming *Routledge Handbook of Yoga and Meditation.*
 
 This intense and fruitful week dedicated to Yoga ended with a presentation that is of direct interest for the Ayuryog project: Alchemy in Daoism and Hatha Yoga, a discussion with Louis Komjathy (University of San Diego) and James Mallinson (SOAS).

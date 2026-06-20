@@ -6,6 +6,8 @@ author: Dagmar Wujastyk
 permalink: /blog/making-rubies-part-three-tweaking-recipe/
 ---
 
+![](/assets/images/posts/gemstones-min.jpg)
+
 ## Making gems. Part three: Tweaking the recipe
 
 With our first batch completed, we should discuss the results. The quartz “rubies” weren’t bad, the calcite ones acceptable, the bamboo manna ones not very convincing, and the alum a downright failure. Generally speaking, the dye did not envelop the stones evenly and also did not seem to adhere that well. And the final step in the recipe, heating the dyed stone in madhuca oil, seemed to be somewhat counterproductive, removing some of the dye rather than enveloping it.

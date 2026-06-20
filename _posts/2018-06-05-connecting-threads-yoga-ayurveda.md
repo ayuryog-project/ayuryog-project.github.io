@@ -6,6 +6,8 @@ author: Suzanne Newcombe
 permalink: /blog/connecting-threads-convergence-yoga-ayurveda-1900-present/
 ---
 
+![](/assets/images/posts/udasinssaadhs.jpg)
+
 **Connecting the Threads: The Convergence of Yoga and Ayurveda from 1900-Present**
 
 One of the major aims of the AYURYOG project is to explore the entanglements of yoga and Ayurveda. As a resource to visualise these entanglements in the twentieth century, I am pleased to present an [interactive timeline](http://ayuryog.org/timeline) of key events linked to the entanglement of yoga and Ayurveda from the colonial period to the present.

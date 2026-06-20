@@ -20,15 +20,40 @@ In his introduction to the volume, Jacobsen (2012:15) points out that a feature 
 
 Discussing the concept of siddhis* *in his current course "History of Indian Yoga and Meditation" at the University of Alberta, Dominik Wujastyk explores the reactions modern readers might have when encountering descriptions of siddhis and balas described in the Pātañjalayogaśāstra:
 
+- 
+
+
 **Disbelief**.  This is all fanciful nonsense.  There are cultural and historical reasons why people might accept such ideas, but that doesn't mean people could fly, etc.
+
+- 
+
+- 
+
 
 **Belief**.  This is actually true.  There are dimensions to life and the world that we don't fully understand, and by tapping into those unknown powers through yoga, one can actually develop the power to fly, etc.
 
+- 
+
+- 
+
+
 **Performance**.  This is a variant of Disbelief.  Yogis were also adepts in performative magic, and they managed to trick their audiences into believing they were witnessing amazing feats like the rope trick.  (There is a Sanskrit literature on tricks and magic, called kautukam.)
+
+- 
+
+- 
+
 
 **Hypnotism**, suggestion.  Similar to Performance.
 
+- 
+
+- 
+
+
 **Mental states**.  The practicing yogin has subjective experiences that feel like flying, light in the head, etc.  That gets reported as events in the external world.*
+
+- 
 
 Thinking of the kinds of special powers described as outcomes of rasāyana therapy, such as extreme longevity, I would like to add "**Hyperbole**" as a variant of **Disbelief** to this list of modern readers' reactions: The authors believed rasāyana medicines to be extremely efficacious and express this belief through exaggerations. A statement like "One who uses this rasāyana will live for eight hundred years" can be read as "This rasāyana will improve life span significantly". 
 

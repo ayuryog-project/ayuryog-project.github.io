@@ -6,6 +6,8 @@ author: Dagmar Wujastyk
 permalink: /blog/yogis-adepts-experts-who-were-alchemists/
 ---
 
+![](/assets/images/posts/rasashala_delhi_2.jpg)
+
 **Yogis, adepts, experts: Who were the alchemists?**
 
  

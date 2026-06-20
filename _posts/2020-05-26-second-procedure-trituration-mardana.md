@@ -6,6 +6,8 @@ author: Dagmar Wujastyk
 permalink: /blog/second-procedure-trituration-mardana/
 ---
 
+![](/assets/images/posts/mercury_after_mardana.jpg)
+
 The terms used for the alchemical procedures sometimes evoke the language of ayurvedic therapy. *Svedana*, the "steaming" of the first alchemical procedure, has a correlate in ayurvedic treatment. There, *svedana* is the application of heat to the patient's body, which results in the patient sweating (the translation for *svedana* here). This is sometimes done by using a closed steam chamber for the patient. 
 
 ![Steam chamber. Image found at http://www.indiamedico.com/panchakarma_ayurvedic_products/vashap_swedan_cabin.php](/assets/images/posts/steam_chamber_0.jpg)
@@ -26,11 +28,11 @@ The *Heart of Mercury* describes the procedure as follows:
 
 These ingredients are quite easy to procure.
 
-![https://www.ayuryog.org/sites/default/files/ingredients_for_mardana.jpg](/assets/images/posts/ingredients_for_mardana.jpg)
+![http://ayuryog.org/sites/default/files/ingredients_for_mardana.jpg](/assets/images/posts/ingredients_for_mardana.jpg)
 
 I was a little surprised at how burnt wool is produced. Rather than just setting it on fire by putting a match to wool (which apparently doesn't work that well, as wool is not that flammable), the wool is calcined in a closed container.
 
-![https://www.ayuryog.org/sites/default/files/wool.jpg](/assets/images/posts/wool.jpg)![https://www.ayuryog.org/sites/default/files/calcined_wool_2.jpg](https://www.ayuryog.org/sites/default/files/calcined_wool_2.jpg)
+![http://ayuryog.org/sites/default/files/wool.jpg](/assets/images/posts/wool.jpg)![http://ayuryog.org/sites/default/files/calcined_wool_2.jpg](http://ayuryog.org/sites/default/files/calcined_wool_2.jpg)
 
  
 
@@ -58,6 +60,6 @@ Rubbing, or triturating liquid mercury with this mixture changes its appearance 
 
 Another thing: this procedure is sometimes done over a mild fire, so the ingredients are slowly and evenly heated throughout. This is how Dr Kale, one of the experts Andrew consulted with, did this procedure (see Dr Kale's picture below). In that case, the mortar one works with needs to be stone or metal. Mercury's boiling point is 356.73 °C (674°F), but it can already evaporate at room temperature. Higher temperatures lead to higher evaporation rates. Since mercury vapour is highly toxic, proper ventilation and safety equipment is very important at this step.
 
-![https://www.ayuryog.org/sites/default/files/tapta_khalva.jpg](https://www.ayuryog.org/sites/default/files/tapta_khalva.jpg)
+![http://ayuryog.org/sites/default/files/tapta_khalva.jpg](http://ayuryog.org/sites/default/files/tapta_khalva.jpg)
 
 As always: don't do this at home, folks!

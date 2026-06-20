@@ -6,6 +6,8 @@ author: Suzanne Newcombe
 permalink: /blog/avoiding-fundamentalist-histories-ayuryog-launch-yoga-in-britain/
 ---
 
+![](/assets/images/posts/dsc_0358_0.jpg)
+
 An important theme of Ayuryog research has been the complexity of entanglements. In the past few years we have been able to shine a spotlight on a few areas of intersection between yoga, ayurveda and *rasaśāstra* (Indian alchemy). My own work has largely been around improving understanding of how yoga became a ubiquitous intervention for health and wellbeing within South Asia during the 20th century. As I have asserted in different places, fundamentalist narratives can rush in to fill gaps in knowledge where there is a lacuna of detailed historical knowledge.
 
  

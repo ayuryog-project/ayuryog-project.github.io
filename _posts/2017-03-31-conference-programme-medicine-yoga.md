@@ -6,6 +6,8 @@ author: Dagmar Wujastyk
 permalink: /blog/conference-programme-medicine-yoga-south-inner-asia/
 ---
 
+![](/assets/images/posts/fuji2240_0.jpg)
+
 The joint conference of AyurYog with three other Vienna projects on Asian medicine is coming up and we are delighted to announce the programme. The conference is open to the public. Come and join us for what promises to be an exciting event!
 
  

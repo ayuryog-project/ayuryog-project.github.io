@@ -6,6 +6,8 @@ author: Jason Birch
 permalink: /blog/did-ayurveda-influence-medieval-yoga-traditions/
 ---
 
+![](/assets/images/posts/yoga_and_ayurveda-book-cover-www.exoticindiaart.jpg)
+
 *Abstract of a forthcoming article by Jason Birch*
 
 The combining of yoga and ayurveda (Indian medicine) is unexceptional in the current global market for wellness. More than a married couple, yoga and ayurveda are deemed by many to be sisters, born of the same scriptural family, the Vedas. The current interplay between yoga and ayurveda raises two questions: how old might their relationship be and was it as intimate in pre-modern times as it seems today? The first question is relatively easy to answer because textual evidence from the classical period of India’s history indicates that their relationship dates back to the beginning of the first millennium, but probably not to the Vedic period. Published articles by Dominik Wujastyk ([2012](https://www.academia.edu/3216968/The_Path_to_Liberation_through_Yogic_Mindfulness_in_Early_Ayurveda)) and Philipp Mass ([2008](https://www.academia.edu/210343/The_Concepts_of_the_Human_Body_and_Disease_in_Classical_Yoga_and_%C4%80yurveda)) shed some light on this. The second question is the focus of this study, which will assess the influence of ayurveda on medieval yoga texts, in terms of terminology, theory and praxis.

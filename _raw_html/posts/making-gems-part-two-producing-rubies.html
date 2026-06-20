@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/blog/making-gems-part-two-producing-rubies" />
+<link rel="shortlink" href="/node/612" />
+<link rel="shortcut icon" href="https://www.ayuryog.org/sites/default/files/image_from_mahamandir_taken_by_jacqueline_hargreaves_2010_2.jpg" type="image/jpeg" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="MobileOptimized" content="width" />
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="cleartype" content="on" />
+  <title>Making gems. Part two: Producing rubies | Ayuryog</title>
+  <link type="text/css" rel="stylesheet" href="https://www.ayuryog.org/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.ayuryog.org/sites/default/files/css/css__LeQxW73LSYscb1O__H6f-j_jdAzhZBaesGL19KEB6U.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.ayuryog.org/sites/default/files/css/css_eBqrtqJbeaz0ZM_pREyM2CjQA-XwFJCXPWJN926fsU0.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.ayuryog.org/sites/default/files/css/css_KhCGXb7kkR1qVPdwKNqNlVNXdt4k7343vDX9JZiz4hA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.ayuryog.org/sites/default/files/css/css_NLQhz8Ack6qUlCJC_KVqAJGUhs1nkJ33XS24cnOzuok.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.ayuryog.org/sites/default/files/css/css_2THG1eGiBIizsWFeexsNe1iDifJ00QRS9uSd03rY9co.css" media="print" />
+  <script type="5c8a82a566780639995f15e2-text/javascript" src="//code.jquery.com/jquery-1.8.3.min.js"></script>
+<script type="5c8a82a566780639995f15e2-text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="5c8a82a566780639995f15e2-text/javascript" src="https://www.ayuryog.org/sites/default/files/js/js_Hfha9RCTNm8mqMDLXriIsKGMaghzs4ZaqJPLj2esi7s.js"></script>
+<script type="5c8a82a566780639995f15e2-text/javascript" src="//code.jquery.com/ui/1.10.2/jquery-ui.min.js"></script>
+<script type="5c8a82a566780639995f15e2-text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery.ui || document.write("<script src='/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery-ui.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="5c8a82a566780639995f15e2-text/javascript" src="https://www.ayuryog.org/sites/default/files/js/js_n47-GZNDrapD-xqFlCCAtXMBBWDUdddPtBXS91E0iGk.js"></script>
+<script type="5c8a82a566780639995f15e2-text/javascript" src="https://www.ayuryog.org/sites/default/files/js/js_ozY80OStWu-rqDhFoQvQ5Dq-OW7uA1R2MH6Kx1cxwhI.js"></script>
+<script type="5c8a82a566780639995f15e2-text/javascript" src="https://www.ayuryog.org/sites/default/files/js/js_QHW0K7hZQHf6A94Y2YHEyo1P2AS_hBia94lUfKROJTQ.js"></script>
+<script type="5c8a82a566780639995f15e2-text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"general_adaptive","theme_token":"3sk9l0WfUM9nWj6GOXx7f3y_lHDpTjyKtXSq-HKwjRk","js":{"\/\/code.jquery.com\/jquery-1.8.3.min.js":1,"0":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/code.jquery.com\/ui\/1.10.2\/jquery-ui.min.js":1,"1":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/back_to_top\/js\/back_to_top.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/libraries\/supersized\/slideshow\/js\/jquery.easing.min.js":1,"sites\/all\/libraries\/supersized\/slideshow\/js\/supersized.3.2.8.min.js":1,"sites\/all\/libraries\/supersized\/slideshow\/theme\/supersized.shutter.min.js":1,"sites\/all\/modules\/supersized\/js\/supersized.js":1,"sites\/all\/modules\/extlink\/js\/extlink.js":1,"sites\/all\/themes\/general_adaptive\/js\/collapsible-menu.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/youtube\/css\/youtube.css":1,"sites\/all\/modules\/extlink\/css\/extlink.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/back_to_top\/css\/back_to_top.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/libraries\/supersized\/slideshow\/theme\/supersized.shutter.css":1,"sites\/all\/libraries\/supersized\/slideshow\/css\/supersized.css":1,"sites\/all\/modules\/supersized\/css\/supersized-default.css":1,"sites\/all\/themes\/general_adaptive\/css\/style.css":1,"sites\/all\/themes\/general_adaptive\/css\/print.css":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px","file_public_path":"\/sites\/default\/files","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"back_to_top":{"back_to_top_button_trigger":100,"back_to_top_button_text":"Back to top","#attached":{"library":[["system","ui"]]}},"supersized":{"autoplay":"1","start_slide":1,"stop_loop":"0","random":"1","slide_interval":"6000","transition":"1","transition_speed":"750","new_window":"0","pause_hover":"0","keyboard_nav":1,"performance":1,"image_protect":1,"on_new_slide":"on_new_slide_callback","min_width":"2000","min_height":"500","vertical_center":1,"horizontal_center":1,"fit_always":"0","fit_portrait":"0","fit_landscape":"1","slide_links":"0","thumbnail_navigation":"0","thumb_links":"0","progress_bar":"0","mouse_scrub":0,"slides":[{"title":"crushed pearl \u00a9 AyurYog","thumb":"https:\/\/www.ayuryog.org\/sites\/default\/files\/styles\/supersized-thumbnail\/public\/dsc_0400.jpg?itok=mwSMishq","image":"https:\/\/www.ayuryog.org\/sites\/default\/files\/styles\/supersized\/public\/dsc_0400.jpg?itok=PFRM-sSZ"}],"image_path":"\/sites\/all\/libraries\/supersized\/slideshow\/img\/"},"urlIsAjaxTrusted":{"\/blog\/making-gems-part-two-producing-rubies":true},"extlink":{"extTarget":0,"extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extIconPlacement":"append","extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)","extUseFontAwesome":false}});
+//--><!]]>
+</script>
+  <!--[if (gte IE 6)&(lte IE 8)]>
+    <script src="/sites/all/themes/general_adaptive/js/selectivizr-min.js"></script>
+  <![endif]-->
+  <!--[if lt IE 9]>
+    <script src="/sites/all/themes/general_adaptive/js/html5-respond.js"></script>
+  <![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-612 node-type-blogpost" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper"><div id="page">
+    <header class="clearfix">
+        <div class="header-inner clearfix">
+                            <div class="header1">
+                    <div class="header1-inner">
+                          <div class="region region-header1">
+    <div id="block-block-3" class="block block-block">
+
+    
+  <div class="content">
+    <p><a href="/index.php">AyurYog</a></p>
+  </div>
+</div>
+  </div>
+                    </div>
+                </div>
+                                        <div class="header2">
+                    <div class="header2-inner">
+                          <div class="region region-header2">
+    <div id="block-system-main-menu" class="block block-system block-menu">
+
+    
+  <div class="content">
+    <ul class="menu clearfix"><li class="first leaf"><a href="/blog">Blog</a></li>
+<li class="leaf"><a href="/team" title="">People</a></li>
+<li class="leaf"><a href="/publications" title="">Publications</a></li>
+<li class="collapsed"><a href="/resources" title="">Resources</a></li>
+<li class="leaf"><a href="/events" title="">Events</a></li>
+<li class="leaf"><a href="http://ayuryog.org/timeline" title="A Timeline of Yoga and Ayurveda from the Medieval to the Modern Period">Yoga Timeline</a></li>
+<li class="leaf"><a href="/content/alchemy-reconstruction" title="The reconstruction of 10th- to-16th- century alchemy from Sanskrit sources.">ALCHEMY RECONSTRUCTION</a></li>
+<li class="last leaf"><a href="/AlchemyTimeline">ALCHEMY TIMELINE</a></li>
+</ul>  </div>
+</div>
+<div id="block-block-4" class="block block-block">
+
+    
+  <div class="content">
+    <p>Z</p>
+  </div>
+</div>
+<div id="block-block-5" class="block block-block">
+
+    
+  <div class="content">
+    <p>s</p>
+  </div>
+</div>
+<div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form action="/blog/making-gems-part-two-producing-rubies" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-yoyzD3crDiKhh-lXujcu1OuxZ2Hre8wpsPPzGHyfBRk" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+  </div>
+                    </div>
+                </div>
+                                        <div class="header3">
+                    <div class="header3-inner">
+                          <div class="region region-header3">
+    <div id="block-imageblock-2" class="block block-imageblock">
+
+    
+  <div class="content">
+      <div class="block-image">
+    <a href="http://www.univie.ac.at" class="imageblock-link" target="_blank"><img class="imageblock-image" src="https://www.ayuryog.org/sites/default/files/styles/h70/public/imageblock/uni_logo_farbe_02.png?itok=QCD-Ni1B" alt="University Vienna" title="University Vienna" /></a>  </div>
+
+  </div>
+</div>
+<div id="block-imageblock-3" class="block block-imageblock">
+
+    
+  <div class="content">
+      <div class="block-image">
+    <a href="http://erc.europa.eu/" class="imageblock-link" target="_blank"><img class="imageblock-image" src="https://www.ayuryog.org/sites/default/files/styles/large/public/imageblock/logo_erc-flag_eu_.jpg?itok=YMRtf9ZJ" alt="European Research Council" title="European Research Council" /></a>  </div>
+
+  </div>
+</div>
+  </div>
+                    </div>
+                </div>
+                        <div class="clr"></div>
+        </div>
+    </header>
+            <div class="belowheader">
+            <div class="belowheader-inner">
+                                <div class="clr"></div>
+            </div>
+        </div>    
+            
+        
+        
+        
+        
+           
+        
+  
+    <main class="clearfix">
+        <div class="main-inner">
+            <a id="main-content"></a>
+            
+                        <div class="clr"></div>
+            
+            
+                        
+                
+            
+            
+            
+            <div class="maincontent w75">
+                <div class="maincontent-inner">
+                                        
+                    
+                                            <h1 class="pagetitle">
+                            Making gems. Part two: Producing rubies                        </h1>
+                                        
+                    <!--
+                    
+                                            <div class="breadcrumbs">
+                            <div class="breadcrumbs-inner">
+                                <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a></div>                            </div>
+                        </div>    
+                                        
+                    -->
+                    
+                    
+                    
+                    <div class="content">
+                        <div class="content-inner">
+                              <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div  class="ds-1col node node-blogpost node-full view-mode-full clearfix">
+
+  
+  <div class="field field-name-post-date field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">4. Feb. '23</div></div></div><div class="field field-name-author field-type-ds field-label-hidden"><div class="field-items"><div class="field-item even">Dagmar Wujastyk</div></div></div><div class="field field-name-field-teaser-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="https://www.ayuryog.org/sites/default/files/styles/large/public/false_ruby_92.jpg?itok=HAe4UDy_" width="480" height="317" alt="" title="False ruby" /></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><h2>Making rubies</h2>
+<p> </p>
+<p>The fish black is ready! This is the base product needed for producing a whole series of gems: rubies, sapphires, emeralds, garnet, topaz, and blue sapphires.</p>
+<p>Time to start making those rubies!</p>
+<p> </p>
+<p> </p>
+<p>Here’s the recipe:</p>
+<p>एतत्कर्षद्वयं तस्याः काचकूप्यां विनिक्षिपेत् ॥५॥</p>
+<p>वर्षोपलास्तु तेनैव लालयित्वा सुपाचिते ।</p>
+<p>मधूकतैलमध्ये तु क्षणं पक्त्वा समुद्धरेत् ।</p>
+<p>जायन्ते पद्मरागाणि दिव्यतेजोमयानि च ॥६॥</p>
+<p> </p>
+<p><em>Fill 20 grams of this into a glass bottle.</em></p>
+<p><em>Roll “rain-stones” (varṣopala) around in this. When they have been well-heated,</em></p>
+<p><em>heat them briefly in madhuca oil. Then remove them.</em></p>
+<p><em>This produces divinely radiant rubies.</em></p>
+<p> </p>
+<p>(<em>Rasaratnākara Vādakhaṇḍa</em> 19. 5cd-6)</p>
+<p> </p>
+<p>Easy, peasy! Take that fish black, put some.... “rain-stones” in it....</p>
+<p> </p>
+<p>You can see the problem. What are these “rain-stones”?</p>
+<p>Monier-Williams gives “hail”. The <em>Amarakośa</em> (1.100a) agrees:</p>
+<p> </p>
+<p>वर्षोपलस्तु करका</p>
+<p><em>And a rain-stone is hail.</em></p>
+<p> </p>
+<p>This follows on from its entries on cloud, thunder, lightning, and rainbow, and is in turn followed by cloudiness, so the gloss of “hail” seems fairly unambiguous.</p>
+<p>But our recipe calls for heating the rain-stones. We briefly consider trying out an ice cube...</p>
+<p> </p>
+<p><img alt="" class="image-550x400" src="http://ayuryog.org/sites/default/files/styles/550x400/public/hailstone2.jpeg?itok=lHCblc2p" style="height:532px; width:550px" title="hailstone" /></p>
+<p> </p>
+<p>However, given that our fish black is made with water, all that would do would be to thin the mixture.</p>
+<p>Olive Hellwig’s <a href="https://books.google.ca/books?id=Stv1UI1cpm4C&amp;lpg=PA238&amp;dq=matsyakajjala&amp;pg=PA157#v=onepage&amp;q=Hagel&amp;f=false">Wörterbuch</a> has a footnote on <em>varṣopala</em> (page 157, footnote 301), in which he suggests that this must be a translucent stone, rather than hail. But he notes that this is pure speculation.</p>
+<p> </p>
+<p>Well, speculate we must, if we are to proceed.</p>
+<p> </p>
+<p>Andrew and I discuss what translucent stones we might use. We agree on quartz and calcite. Andrew wants to try out alum. I suggest bamboo manna. This is somewhat whimsically based on a passage in the <em>Garuḍapurāṇa</em> (<a href="https://archive.org/details/GarudaPuranaEnglishMotilal3VolumesIn1/page/n233/mode/2up">chapter 69.9, in a section on pearls</a>), which states that “pearls found in the joints of bamboos resembling the hail stone in colour are very rare...”</p>
+<p> </p>
+<p><img alt="" class="image-550x400" src="http://ayuryog.org/sites/default/files/styles/550x400/public/bamboo_manna.jpeg?itok=lHgR7x2p" style="height:309px; width:550px" title="bamboo manna" /></p>
+<p> </p>
+<p>We’re aiming at rubies, rather than pearls, but hey, why not? Andrew has some bamboo manna, albeit not a very translucent kind.</p>
+<p> </p>
+<p>So this is our initial shortlist for <em>varṣopala</em>.</p>
+<p> </p>
+<p><img alt="" class="image-550x400" src="http://ayuryog.org/sites/default/files/styles/550x400/public/materials.jpg?itok=PIVbQwj3" style="height:413px; width:550px" title="quartz, calcite, alum, bamboo manna" /></p>
+<p> </p>
+<p>We later expand with selenite, and topaz in a second run.</p>
+<p> </p>
+<p>I found one more possible contender in Louis Finot’s 1896 <a href="https://books.google.ca/books?id=MYBIAQAAMAAJ&amp;lpg=PA259&amp;dq=varsopala&amp;pg=PA177#v=onepage&amp;q=varsopala&amp;f=false">Les Lapidaires indien</a>s, in which he gives a translation of the “New Examination of Jewels” (<em>Navaratnaparīkṣā</em><em>)</em>. Chapter 14 of this work is about making artificial precious stones (<em>kṛtrimaratnaprakāraḥ</em>)! The chapter covers the making of coral (verse 174-177); sapphire (verses 178-179); emeralds (verses 180-181), and <strong>rubies (verses 182-183)</strong>. And these recipes follow those of the <em>Rasaratnākara</em> quite closely, though the order in which they are presented is changed. And, significantly, the key ingredient of fish black is not mentioned at all in the recipes for making artificial sapphires, emeralds, garnet, or rubies.</p>
+<p> </p>
+<p>Indeed, some mistake seems to have occurred for the ruby recipe. Finot’s edition awkwardly splits up the recipe (pages 177-178):</p>
+<p> </p>
+<p><img alt="" class="image-550x400" src="http://ayuryog.org/sites/default/files/styles/550x400/public/finot_rubies_2.jpg?itok=kXmwibIF" style="height:116px; width:550px" /></p>
+<p><img alt="" class="image-550x400" src="http://ayuryog.org/sites/default/files/styles/550x400/public/finot_rubies_1.jpg?itok=1QrD375t" style="height:72px; width:550px" /></p>
+<p>His translation reads:</p>
+<p> </p>
+<p>182. Mêlez en égale proportion du coquillage calciné et du vermillion, tous deux en poudre. Agitez le tout dans un flacon de verre, de manière à en faire une seule substance.</p>
+<p>183. Versez grain à grain, et mettez ensuite en feu. Tous ces grains deviennent des rubis parfaits: aucan duote là-dessus.</p>
+<p> </p>
+<p>I got excited there for a moment, thinking that the text correlated <em>varṣopala</em> with calcined conch (<em>dagdhaśaṅkha</em>). However, there was this little problem that this recipe calls for a completely different dye: cinnabar, or vermillion, rather than lac. And, on second thought, the first line seemed awfully familiar. As indeed it was: This is the first line of a recipe for coral in the <em>Jewel Mine of Mercury </em>(<em>Rasaratnākara Vādakhaṇḍa</em> 19.33):</p>
+<p> </p>
+<p>दग्धशङ्खं च दरदं समं चूर्णं प्रकल्पयेत्</p>
+<p><em>One should mix equal portions of the powder of calcined conch and cinnabar.</em></p>
+<p> </p>
+<p>Andrew and I had consulted this passage when we had attempted recreating the recipe for making artificial coral in the <em>Jewel Mine Light on Mercury</em> (<em>Rasaprakāśasudhākara</em>). See our thoughts on this <a href="http://ayuryog.org/blog/reconstructing-indian-alchemy-making-coral-1">here</a> and <a href="http://ayuryog.org/blog/making-coral-second-and-third-try">here</a>.</p>
+<p>The next two lines in Finot’s edition then closely resemble the <em>Jewel Mine</em>’s second and third verses in its recipe for making emeralds (<em>Rasaratnākara Vādakhaṇḍa</em> 19.9-10)</p>
+<p> </p>
+<p>काचकूप्यां स्थितैर्द्रव्यैः सर्वमेतत्सुलोलयेत्</p>
+<p>वर्षोत्पलांस्तु तेनैव सिक्त्वा पच्याच्च पूर्ववत्</p>
+<p> </p>
+<p><em>Thoroughly mix all of this with the above substances.</em></p>
+<p><em>Having soaked the rain-stones with this, one should heat it as before.</em></p>
+<p> </p>
+<p>Well, somebody’s eye slipped, whether this was Finot, the scribe of the manuscript he was working with, or indeed the author of the <em>New Examination of Jewels</em>.</p>
+<p> </p>
+<p>In any case, calcined conch is not translucent, and it is hard to see how this would have produced a passable ruby. So, we go with our selection of quartz, calcite, bamboo manna, and alum. Of these, I think the quartz (rock crystal) is probably the best contender. Here’s why:</p>
+<p> </p>
+<p><strong>Defining rubies</strong></p>
+<p> </p>
+<p>Rubies seem to have long been valued as a precious stone in South Asia. Varāhamihira’s <em>Bṛhatsaṃhitā</em> (chapter 82. 1-2) tells us that there are three kinds of rubies:</p>
+<p> </p>
+<p>सौगन्धिककुरुविन्दस्फटिकेभ्यः पद्मरागसंभूतिः</p>
+<p>सौगन्धिकजा भ्रमराञ्जनाब्जजम्बूरसद्युतयः</p>
+<p>कुरुविन्दभवाः शबला मन्दद्युतयश्च धातुभिर्विद्धाः</p>
+<p>स्फटिकभवा द्युतिमन्तो नानावर्णा विशुद्धश्च</p>
+<p> </p>
+<p><em>Rubies are produced from sulphur, cinnabar, and rock crystal.</em></p>
+<p><em>Those produced from sulphur have the lustre of bees, collyrium, lotus, plum, or myrrh*.</em></p>
+<p><em>Those produced from cinnabar are variegated, of low lustre, and permeated with minerals.</em></p>
+<p><em>Those produced from rock crystal are full of lustre, of various colours, and pure.</em></p>
+<p> </p>
+<p> </p>
+<p>(* I am following Finot’s translation of <em>rasa</em> as myrrh here, as quicksilver doesn’t seem to fit the list in terms of its colour. Then again, lotus (<em>abja</em>) also doesn’t quite fit this list of dark-coloured things. I am assuming this refers to a range of reddish-browns to purple. Bhaṭṭotpala’s commentary on this passage glosses <em>rasa</em> with “<em>lohita</em><em>varṇa</em>” - “reddish” )</p>
+<p> </p>
+<p>Bhudeb Mookerji’s Rasa Jala Nidhi (<a href="https://archive.org/details/RasaJalaNidhiVol3/page/201/mode/2up">vol. 3, page 201-202</a>) features a similar, but expanded list with four varieties. He interprets <em>saugandhika</em> as a ruby variety growing out of spinel, a magnesium aluminium oxide mineral that is not actually a ruby, but <a href="https://geology.com/minerals/spinel.shtml#impostor">looks a lot like one</a>.</p>
+<p><img alt="" class="image-550x400" src="http://ayuryog.org/sites/default/files/styles/550x400/public/260px-calcite-spinel-dtn37a.jpg?itok=B4u4u3JJ" style="height:662px; width:550px" title="Spinel" /></p>
+<p>[Image of Spinel by Rob Lavinsky, <a href="http://www.irocks.com/db_pics/pics/dtn37a.jpg">http://www.irocks.com/db_pics/pics/dtn37a.jpg</a> – CC-BY-SA-3.0]</p>
+<p> </p>
+<p>“Kuruvinda” is today known as corundum, an aluminium oxide mineral that can have different colours. Corundum has two gem varieties, ruby and sapphire. The ruby variety owes its colour to the presence of chromium.</p>
+<p> </p>
+<p><img alt="" class="image-550x400" src="http://ayuryog.org/sites/default/files/styles/550x400/public/corundum.jpg?itok=tfKTMzG1" style="height:405px; width:550px" title="corundum" /><img alt="" class="image-550x400" src="http://ayuryog.org/sites/default/files/styles/550x400/public/corundum-crystals.jpg?itok=kypwaPWj" style="height:323px; width:550px" /></p>
+<p>[<a href="https://geology.com/minerals/corundum.shtml">Corundum pictures</a>]</p>
+<p> </p>
+<p>But it’s the rock crystal- or quartz-produced ruby produced from rock crystal (<em>sphaṭika,</em> which, incidentally, also can mean alum) that I want to point out here.</p>
+<p> </p>
+<p>My point being that the recipe for making rubies in the <em>Jewel Mine</em> states that it produces “divinely radiant rubies” – in other words, this is a recipe for making, rather than faking rubies. Therefore, producing rubies from rock crystal would seem a good starting point. Also, quartz is a silica mineral that has a hardness of 7 to 7.5 on the Mohs scale. This puts it close in hardness to rubies, which are around 9 on the Mohs scale. For comparison, calcite, a carbonate mineral, is only at 3 on the Mohs scale.</p>
+<p> </p>
+<p>And may I offer one last reason (and I may be clutching at straws here, but bear with me):</p>
+<p>Pliny, in <a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D9">The Natural History</a>of Precious Stones, Book 37, chapter 9, says the following about rock crystal:</p>
+<p> </p>
+<p>"It is a diametrically opposite cause to this that produces crystal, a substance which assumes a concrete form from excessive congelation. At all events, crystal is only to be found in places where the winter snow freezes with the greatest intensity; and <strong>it is from the certainty that it is a kind of ice, that it has received the name, which it bears in Greek</strong>*. The East, too, sends us crystal, there being none preferred to the produce of India."</p>
+<p>[Translation by John Bostock and H.T. Riley, 1855. Emphasis mine.]</p>
+<p> </p>
+<p>(* namely, <a href="http://www.perseus.tufts.edu/hopper/morph?l=Kru%2Fstallos&amp;la=greek&amp;can=kru%2Fstallos0" target="morph">κρύσταλλος</a>, from <a href="http://www.perseus.tufts.edu/hopper/morph?l=kru%2Fos&amp;la=greek&amp;can=kru%2Fos0&amp;prior=Kru/stallos" target="morph">κρύος</a>, "cold.")</p>
+<p> </p>
+<p>Crystal is a “kind of ice”! There! A connection to our hailstone: <em>varṣopala</em>.</p>
+<p>Totally convincing, if we disregard the fact that none of the Indian sources explain rock crystal (<em>sphaṭika</em>) as a form of ice, and also leave aside the fact that the <em>Jewel Mine</em> uses the term <em>sūryakānta</em> for rock crystal in the same chapter (i.e. <em>Vādakhaṇḍa</em> 19), while the <em>New Examination of Jewels</em> has a whole section on rock crystal (chapter 7) in which it uses the term <em>sphaṭika</em> rather than <em>varṣopala</em>.</p>
+<p> </p>
+<p><img alt="" class="image-550x400" src="http://ayuryog.org/sites/default/files/styles/550x400/public/shivaratna_quartz.jpg?itok=CSXmTwJL" style="height:400px; width:550px" title="quartz - rock crystal" /></p>
+<p> </p>
+<p> </p>
+<p><strong>Producing rubies</strong></p>
+<p> </p>
+<p>Still, even if you are not completely convinced of the correctness of our choice of quartz, we are ready to go.</p>
+<p> </p>
+<p>Andrew fills the fish black into glass jars. We give some thought on how to heat these jars – the text does not specify how this should be done. A sand bath seems the best method for this, as the heat will be distributed evenly and will – hopefully – not crack the glass.</p>
+<p> </p>
+<p><img alt="" class="image-550x400" src="http://ayuryog.org/sites/default/files/styles/550x400/public/false_ruby_77.jpg?itok=F9JJw-CN" style="height:367px; width:550px" title="glass jars filled with fish black in a sand bath" /></p>
+<p> </p>
+<p>Andrew adds the calcite, quartz, and bamboo manna to the now heated fish black liquid. He has a separate jar for the alum, which is just as well, because the alum starts melting in the hot liquid, and has to be removed fairly quickly.</p>
+<p> </p>
+<p><img alt="" class="image-550x400" src="http://ayuryog.org/sites/default/files/styles/550x400/public/false_ruby_87.jpg?itok=Uq3QaYx2" style="height:363px; width:550px" /><img alt="" class="image-550x400" src="http://ayuryog.org/sites/default/files/styles/550x400/public/false_ruby_89.jpg?itok=35NUeci9" style="height:392px; width:550px" /></p>
+<p> </p>
+<p>The next step calls for us to heat the dyed stones in madhuca oil. This is done fairly quickly. Andrew uses the sand bath for heating the oil and immersing the stones in it as well.</p>
+<p> </p>
+<p>And here are the results:</p>
+<p>The bamboo manna seemed to take the colour very well at first. This does not, however, disguise the fact that it is not translucent, and therefore does not immediately bring a ruby to mind. Though perhaps it could pass as a raw ruby?</p>
+<p> </p>
+<p> </p>
+<p><img alt="" class="image-550x400" src="http://ayuryog.org/sites/default/files/styles/550x400/public/raw_ruby_2.jpg?itok=9XXDENnC" style="height:550px; width:550px" /></p>
+<p>[A picture of raw rubies I found online. These were on sale.]</p>
+<p>As the bamboo manna dried, however, it also lost all of its lustre, and much of its colour.</p>
+<p> </p>
+<p><img alt="" class="image-550x400" src="http://ayuryog.org/sites/default/files/styles/550x400/public/false_ruby_072.jpg?itok=sOOrEOLv" style="height:399px; width:550px" title="bamboo manna ruby after drying" /></p>
+<p>[Dyed bamboo manna after drying. Let's call it "variegated", shall we?]</p>
+<p>The quartz and calcite, on the other hand, were nicely translucent, but sadly did not take the dye very well.</p>
+<p> </p>
+<p><img alt="" class="image-550x400" src="http://ayuryog.org/sites/default/files/styles/550x400/public/false_ruby_91_0.jpg?itok=fQpQW0Id" style="height:327px; width:550px" title="Calcite and quartz ruby before oil" /></p>
+<p>[Calcite and quartz dyed with fish black, but not yet heated in oil]</p>
+<p><img alt="" class="image-550x400" src="http://ayuryog.org/sites/default/files/styles/550x400/public/false_ruby_79.jpg?itok=pfsWc2tw" style="height:385px; width:550px" title="dyed quartz" /></p>
+<p>[Dyed quartz]</p>
+<p> </p>
+<p><img alt="" class="image-550x400" src="http://ayuryog.org/sites/default/files/styles/550x400/public/false_ruby_92_0.jpg?itok=j1yPRZOx" style="height:364px; width:550px" title="calcite and quartz after oil" /><img alt="" class="image-550x400" src="http://ayuryog.org/sites/default/files/styles/550x400/public/false_ruby_78.jpg?itok=FxpcI7fY" style="height:340px; width:550px" title="calcite and quartz after oil" /></p>
+<p>[Dyed calcite and quartz after heating in madhuca oil]</p>
+<p>One can sort of see the idea behind the recipe: you coat (or permeate?) a translucent stone with dye, and seal it with oil, or give it some extra shine with oil.</p>
+<p>On that subject: A passage on how to distinguish between genuine and fake rubies in the <em>Garuḍapurāṇa </em>(1.70.24) describes appearing to be smeared with oil, or losing lustre when rubbed (स्नेहप्रदिग्धः प्रतिभाति यश्च यो वा प्रघृष्टः प्र्जहाति दीप्तिं) as characteristics of fake rubies.</p>
+<p>However, in our experience, coating the stones with oil after dyeing them seemed to rather have the effect of removing the dye, rather than enveloping and sealing it, or adding shine.</p>
+<p> </p>
+<p>In any case, here is our video of the process:</p>
+<p> </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sssc83UGoHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe><p> </p>
+<p>We are left with the question of how we could make the dye take. We took some inspiration from Graeco-Egyptian alchemy..... which I will tell you about in the next blog post.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+</div></div></div><div class="field field-name-field-images field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img src="https://www.ayuryog.org/sites/default/files/hailstone2.jpeg" width="335" height="324" alt="" title="hailstone" /></div><div class="field-item odd"><img src="https://www.ayuryog.org/sites/default/files/ice_cubes.jpg" width="417" height="320" alt="" title="ice cubes" /></div><div class="field-item even"><img src="https://www.ayuryog.org/sites/default/files/bamboo_manna.jpeg" width="602" height="338" alt="" title="bamboo manna" /></div><div class="field-item odd"><img src="https://www.ayuryog.org/sites/default/files/materials.jpg" width="2000" height="1502" alt="" title="quartz, calcite, alum, bamboo manna" /></div><div class="field-item even"><img src="https://www.ayuryog.org/sites/default/files/finot_rubies_2.jpg" width="1919" height="403" alt="" /></div><div class="field-item odd"><img src="https://www.ayuryog.org/sites/default/files/finot_rubies_1.jpg" width="1920" height="253" alt="" /></div><div class="field-item even"><img src="https://www.ayuryog.org/sites/default/files/260px-calcite-spinel-dtn37a.jpg" width="260" height="313" alt="" title="Spinel" /></div><div class="field-item odd"><img src="https://www.ayuryog.org/sites/default/files/corundum.jpg" width="380" height="280" alt="" title="corundum" /></div><div class="field-item even"><img src="https://www.ayuryog.org/sites/default/files/corundum-crystals.jpg" width="380" height="223" alt="" /></div><div class="field-item odd"><img src="https://www.ayuryog.org/sites/default/files/shivaratna_quartz.jpg" width="2000" height="1453" alt="" title="quartz - rock crystal" /></div><div class="field-item even"><img src="https://www.ayuryog.org/sites/default/files/false_ruby_77.jpg" width="2000" height="1334" alt="" title="glass jars filled with fish black in a sand bath" /></div><div class="field-item odd"><img src="https://www.ayuryog.org/sites/default/files/false_ruby_87.jpg" width="2000" height="1321" alt="" /></div><div class="field-item even"><img src="https://www.ayuryog.org/sites/default/files/false_ruby_89.jpg" width="2000" height="1424" alt="" /></div><div class="field-item odd"><img src="https://www.ayuryog.org/sites/default/files/false_ruby_79.jpg" width="2000" height="1401" alt="" title="dyed quartz" /></div><div class="field-item even"><img src="https://www.ayuryog.org/sites/default/files/false_ruby_91_0.jpg" width="2000" height="1188" alt="" title="Calcite and quartz ruby before oil" /></div><div class="field-item odd"><img src="https://www.ayuryog.org/sites/default/files/false_ruby_92_0.jpg" width="2000" height="1322" alt="" title="calcite and quartz after oil" /></div><div class="field-item even"><img src="https://www.ayuryog.org/sites/default/files/false_ruby_78.jpg" width="2000" height="1237" alt="" title="calcite and quartz after oil" /></div><div class="field-item odd"><img src="https://www.ayuryog.org/sites/default/files/raw_ruby_2.jpg" width="2000" height="2000" alt="" /></div><div class="field-item even"><img src="https://www.ayuryog.org/sites/default/files/false_ruby_072.jpg" width="2000" height="1450" alt="" title="bamboo manna ruby after drying" /></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-hidden clearfix"><ul class="links"><li class="taxonomy-term-reference-0"><a href="/tags/rasashastra">Rasashastra</a></li><li class="taxonomy-term-reference-1"><a href="/tags/rubies">rubies</a></li><li class="taxonomy-term-reference-2"><a href="/tags/rain-stones">rain stones</a></li><li class="taxonomy-term-reference-3"><a href="/tags/varshopala">varshopala</a></li><li class="taxonomy-term-reference-4"><a href="/tags/andrew-mason">Andrew Mason</a></li><li class="taxonomy-term-reference-5"><a href="/tags/dagmar-wujastyk">Dagmar Wujastyk</a></li></ul></div><div class="field field-name-title-field field-type-text field-label-above"><div class="field-label">Title:&nbsp;</div><div class="field-items"><div class="field-item even">Making gems. Part two: Producing rubies</div></div></div></div>
+
+  </div>
+</div>
+  </div>
+                        </div>
+                    </div>    
+                                        
+                </div>
+            </div>
+      
+
+                            <div class="rightsidebar w25">
+                    <div class="rightsidebar-inner">
+                          <div class="region region-rightsidebar">
+    <div id="block-views-blog-preview-block-block" class="block block-views">
+
+    <h2>Latest Blogposts</h2>
+  
+  <div class="content">
+    <div class="view view-blog-preview-block view-id-blog_preview_block view-display-id-block view-dom-id-fa78f272c813618c87a9b5afdb722367">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/making-rubies-part-three-tweaking-recipe">Making rubies. Part Three: Tweaking the recipe</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/making-gems-part-two-producing-rubies" class="active">Making gems. Part two: Producing rubies</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/making-gems-part-one-fish-black-matsyakajjala">Making gems. Part one: fish black (matsyakajjala)</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/final-experiment-gold-imitation-chalcopyrite">A final experiment: Gold imitation with chalcopyrite</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/blog/aurifiction-revisited">Aurifiction revisited</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+                    </div>
+                </div>
+                        <div class="clr"></div>
+        </div>
+    </main>
+
+        
+    <footer class="clearfix">
+        <div class="footer-inner clearfix">
+                                                <div class="clr"></div>
+        </div>
+    </footer>
+     
+        
+            <div class="belowfooter">
+            <div class="belowfooter-inner">
+                  <div class="region region-belowfooter">
+    <div id="block-block-2" class="block block-block">
+
+    
+  <div class="content">
+    <p>© Ayuryog 2015 - University of Vienna, Spitalgasse 2, Hof 2.1 &amp; Hof 2.7 (Campus), 1090 Wien</p>
+  </div>
+</div>
+  </div>
+            </div>
+        </div>    
+        
+
+
+</div></div> <!-- EOD -->
+
+
+<script type="5c8a82a566780639995f15e2-text/javascript">
+    jQuery(document).ready(function(){
+        
+        //TOP MENU SWITCH
+        jQuery(window).on("scroll touchmove", function () {
+            jQuery('header').toggleClass('smally', jQuery(document).scrollTop() > 200);
+            jQuery('.header-inner, .header1, .header1 div').toggleClass('h70', jQuery(document).scrollTop() > 200);
+            jQuery('#page').toggleClass('mtop', jQuery(document).scrollTop() > 200);
+        });
+        
+        //SEARCH FORM TOGGLE
+        jQuery('#block-block-5').click(function () {
+            jQuery('#block-search-form').toggle(300);
+        });
+        //MENU TOGGLE
+        jQuery('#block-block-4').click(function () {
+            jQuery('#block-system-main-menu').toggle(300);
+        });
+        
+        
+    
+    });
+</script>
+
+
+
+
+  <script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="5c8a82a566780639995f15e2-|49" defer></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447" integrity="sha512-57MDmcccJXYtNnH+ZiBwzC4jb2rvgVCEokYN+L/nLlmO8rfYT/gIpW2A569iJ/3b+0UEasghjuZH/ma3wIs/EQ==" data-cf-beacon='{"version":"2024.11.0","token":"b0d88dd6cb394b79917dfc38dc523956","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>

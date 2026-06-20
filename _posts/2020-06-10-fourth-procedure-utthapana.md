@@ -6,6 +6,8 @@ author: Dagmar Wujastyk
 permalink: /blog/fourth-procedure-bringing-mercury-rise-utthapana/
 ---
 
+![](/assets/images/posts/patanayantra.jpg)
+
 **The fourth procedure: Bringing mercury to a rise (*utthāpana*)**
 
  
@@ -28,17 +30,17 @@ The first sentence refers to trituration with the three myrobalans, aloe vera, a
 
 So here's the first problem: what does a condensation device look like?  Different alchemical texts have different suggestions for this. Have a look at these diagrams in [Oliver Hellwig's Dictionary of Indian Alchemy](https://www.academia.edu/1268947/W%C3%B6rterbuch_der_mittelalterlichen_Indischen_Alchemie)
 
-![https://www.ayuryog.org/sites/default/files/patanayantra_rss_hllwg.jpg](/assets/images/posts/patanayantra_rss_hllwg.jpg)
+![http://ayuryog.org/sites/default/files/patanayantra_rss_hllwg.jpg](/assets/images/posts/patanayantra_rss_hllwg.jpg)
 
-![https://www.ayuryog.org/sites/default/files/patanayantra_rrs_2.jpg](/assets/images/posts/patanayantra_rrs_2.jpg)
+![http://ayuryog.org/sites/default/files/patanayantra_rrs_2.jpg](/assets/images/posts/patanayantra_rrs_2.jpg)
 
 And here is a rare image from an alchemical manuscript from about 1700 (Jaipur UIOMI 184: I.14.ii.2 (J 1 )) that depicts an 'upward condensation device' (*ūrdhvapātanayantra*). The text is the *Rasendramaṅgala*, whose date is uncertain. It may be one of the oldest of the alchemical texts, but D.White (1996:81) has suggested it belongs to the later strata of texts, perhaps to the thirteenth or fourteenth century. It seems to suggest the use of a glass vessel (*kācakūpa* - the text however spells *kācakupā*) at the bottom, set on a fire, with some rectangular device on top in which one places water.
 
-![https://www.ayuryog.org/sites/default/files/urdhvapatanayantra.jpg](/assets/images/posts/urdhvapatanayantra.jpg)
+![http://ayuryog.org/sites/default/files/urdhvapatanayantra.jpg](/assets/images/posts/urdhvapatanayantra.jpg)
 
 The *Mugdhāvabodhinī* , a ca sixteenth-century commentary on the *Rasahṛdayatantra *describes a different device still. It envisages as a spherical vessel consisting of two plates (*sthālīdvayasaṃpuṭa*). Something like this?
 
-![https://www.ayuryog.org/sites/default/files/patana_or_svedani_2.jpg](/assets/images/posts/patana_or_svedani_2.jpg)
+![http://ayuryog.org/sites/default/files/patana_or_svedani_2.jpg](/assets/images/posts/patana_or_svedani_2.jpg)
 
  
 
@@ -58,13 +60,13 @@ The edition of the *Rasahṛdayatantra* that I have been using, namely the 1927 
 
 This is my sketch of this device, which I sent to Andrew, based on the image in Hellwig 2009: 294:
 
-![https://www.ayuryog.org/sites/default/files/patanayantra_sketch.jpg](/assets/images/posts/patanayantra_sketch.jpg)
+![http://ayuryog.org/sites/default/files/patanayantra_sketch.jpg](/assets/images/posts/patanayantra_sketch.jpg)
 
-![https://www.ayuryog.org/sites/default/files/patanayantra_rht_hllwg_0.jpg](/assets/images/posts/patanayantra_rht_hllwg_0.jpg)
+![http://ayuryog.org/sites/default/files/patanayantra_rht_hllwg_0.jpg](/assets/images/posts/patanayantra_rht_hllwg_0.jpg)
 
 And Andrew's rather more sophisticated rendering:
 
-![https://www.ayuryog.org/sites/default/files/patanayantra_andrew_diagram.jpg](/assets/images/posts/patanayantra_andrew_diagram.jpg)
+![http://ayuryog.org/sites/default/files/patanayantra_andrew_diagram.jpg](/assets/images/posts/patanayantra_andrew_diagram.jpg)
 
  
 

@@ -6,6 +6,8 @@ author: Dagmar Wujastyk
 permalink: /blog/reconstructing-indian-alchemy-making-silver-second-method/
 ---
 
+![](/assets/images/posts/orpiment_99.jpg)
+
 Out of all the recipes we chose, this one probably had us scratching our heads the most: The *Rasaprakāśasudhākara*’s second recipe for making silver. It features uncertain, and exotic materials, and an unusual method.
 
  

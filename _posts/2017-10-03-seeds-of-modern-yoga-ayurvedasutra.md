@@ -6,6 +6,8 @@ author: Zoë Slatoff
 permalink: /blog/seeds-modern-yoga-confluence-yoga-ayurveda-ayurvedasutra/
 ---
 
+![](/assets/images/posts/ayurvedasutram.jpeg)
+
 *This is a guest blog by Zoë Slatoff, who is currently undertaking doctoral studies at Lancaster University, UK and is also a seasoned [Ashtanga Yoga practitioner](https://www.ashtangayogaupperwestside.com/about-zoe-slatoff-and-ayuws/) and teacher. She has an M.A. from Columbia University and is the author of Yogāvatāraṇaṃ, a Sanskrit textbook** for yoga students.*
 
  

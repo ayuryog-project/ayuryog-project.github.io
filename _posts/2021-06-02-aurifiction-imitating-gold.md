@@ -6,6 +6,8 @@ author: Dagmar Wujastyk
 permalink: /blog/aurifiction-imitating-gold/
 ---
 
+![](/assets/images/posts/gold.jpg)
+
 The eleventh chapter of the *Rasaprakāśasudhākara* contains 20 recipes for making gold, improving the quality of gold, or imitating gold. The recipe of our current experiment is for making copper the colour of gold. Aurifiction, not aurifaction.
 
  

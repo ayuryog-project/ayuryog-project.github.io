@@ -9,25 +9,31 @@ permalink: /pastevents/
 ### Conference: History of Science and Philosophy in Premodern India
 **17–18 May 2024 — Department of History, Classics, and Religion, University of Alberta, Business Building 2-09**
 
-A conference in honour of Prof Dominik Wujastyk, Singhmar Chair in Classical Indian Society and Polity. This two-day in-person conference explored the interplay between science and philosophy in the premodern period of South Asia.
+![](/assets/images/posts/jambudvipa_map_according_to_jain_cosmological_traditions_-_dpla_-_798ff75dcdb0c0b778c0291a357a8235.jpg)
 
-Event website: <https://www.eventcreate.com/e/indiaconference/>
+A conference in honour of Prof Dominik Wujastyk, Singhmar Chair in Classical Indian Society and Polity.
+
+[+ Read more]({{ '/events/conference-history-science-philosophy-premodern-india/' | relative_url }})
 
 ---
 
 ## 2022
 
 ### Book launch: *Illness and Immortality. Mantra, Mandala, and Meditation in the Netratantra* — Patricia Sauthoff
-**4 February 2022 — Online (11am MST / 6pm GMT)**
+**4 February 2022 — Online**
 
-Online launch of the newly published book by former AyurYog researcher Dr Patricia Sauthoff.
+![](/assets/images/posts/9780197553268.jpg)
+
+[+ Read more]({{ '/events/book-launch-sauthoff-2022/' | relative_url }})
 
 ---
 
 ### Let the Vaidyas speak! Translating the Usman Report
 **28 January 2022 — Online**
 
-Online launch event for the AyurYog publication: *The Usman Report (1923). Translations of regional submissions.*
+![](/assets/images/posts/cover_image.jpg)
+
+[+ Read more]({{ '/events/let-vaidyas-speak-usman-report/' | relative_url }})
 
 ---
 
@@ -36,7 +42,9 @@ Online launch event for the AyurYog publication: *The Usman Report (1923). Trans
 ### Launch of Rasaśāstra: A Timeline of Sanskrit Alchemical Literature
 **27 May 2021 — Online**
 
-Presented by Dagmar Wujastyk and Patricia Sauthoff. Launch of the interactive Alchemy Timeline, highlighting key developments and milestones in Indian alchemy and demonstrating the entangled histories of Ayurveda, rasaśāstra, and tantra. See the [Alchemy Timeline]({{ '/alchemy-timeline/' | relative_url }}).
+![](/assets/images/posts/0001.jpg)
+
+[+ Read more]({{ '/events/launch-rasashastra-timeline/' | relative_url }})
 
 ---
 
@@ -45,342 +53,476 @@ Presented by Dagmar Wujastyk and Patricia Sauthoff. Launch of the interactive Al
 ### Exhibition: LONGEVITY — A Timeline of Yoga and Ayurveda
 **Postponed from 14 May 2020 — due to Covid-19 pandemic**
 
-An exhibition curated by Jacqueline Hargreaves for AyurYog. The physical opening was postponed due to the pandemic.
+![](/assets/images/posts/longevity_-_a_timeline_of_yoga_and_ayurveda_-_exhibition_800_x_800.jpg)
+
+[+ Read more]({{ '/events/exhibition-longevity-timeline/' | relative_url }})
 
 ---
 
 ### Untangling Traditions: Yoga, Ayurveda and Alchemy
 **14–16 May 2020 — Cancelled due to Covid-19 pandemic**
 
-The planned physical conference was cancelled due to the pandemic. See [Untangling Traditions]({{ '/resources/untangling-traditions/' | relative_url }}) for the online video presentations that replaced it.
+![](/assets/images/posts/untangling_traditions_final_-_600x1500.jpg)
+
+[+ Read more]({{ '/events/untangling-traditions-conference-2020/' | relative_url }})
 
 ---
 
 ### Inform–AyurYog Seminar on Immortality: Beliefs and Practices
-**1 February 2020 — Bush House, the Aldwych, King's College London, 9:30am–5:00pm**
+**1 February 2020 — Bush House, the Aldwych, King's College London**
+
+![](/assets/images/posts/wellcome_collection.jpg)
+
+[+ Read more]({{ '/events/inform-seminar-immortality-2020/' | relative_url }})
 
 ---
 
 ## 2019
 
 ### Christèle Barois: Mārga in the Dharmaputrikā. From the Path of the Bodily Winds to the Archery Metaphor
-**29 November 2019 — Symposium "Paths to Liberation in Hindu and Sikh Traditions", Friday 29 November, 12:15pm**
+**29 November 2019**
+
+![](/assets/images/posts/cloud.jpg)
+
+[+ Read more]({{ '/events/barois-marga-dharmaputrika-2019/' | relative_url }})
 
 ---
 
 ### Water As Elixir of Longevity: A Rasāyana Practice from the Ānandakanda — Patricia Sauthoff
 **23–26 November 2019 — American Academy of Religion Annual Meeting, San Diego, CA**
 
-Yoga in Theory and Practice Unit, *Consumption for Transcendence: Foodways, Diet, and Drugs in Yoga Practice* panel. 5:30–7:00pm, Hilton Bayfront, Aqua 305.
+![](/assets/images/posts/screen_shot_2019-09-05_at_12.00.20_pm.png)
+
+[+ Read more]({{ '/events/sauthoff-water-elixir-rasayana-2019/' | relative_url }})
 
 ---
 
 ### "Yoga in Britain" Book Launch and Reception — Suzanne Newcombe and Mark Singleton
-**4 October 2019, 18:30–20:45 — Khalili Lecture Theatre, SOAS University of London, 10 Thornhaugh Street, London WC1H 0XG**
+**4 October 2019 — Khalili Lecture Theatre, SOAS University of London**
+
+![](/assets/images/posts/small-yogainbritain-cover.jpg)
+
+[+ Read more]({{ '/events/yoga-in-britain-book-launch-2019/' | relative_url }})
 
 ---
 
-### Femininities and masculinities in medieval South Asia: Translating terminology in an intersectional world — Patricia Sauthoff
-**3 October 2019 — University of Alberta Intersections of Gender Fall Conference**
+### Femininities and masculinities in medieval South Asia — Patricia Sauthoff
+**3 October 2019 — University of Alberta**
+
+[+ Read more]({{ '/events/sauthoff-femininities-masculinities-2019/' | relative_url }})
 
 ---
 
 ### Alchemical Spaces and Tantric Traditions — Patricia Sauthoff
-**27–29 September 2019 — Society for Tantric Studies Conference, Flagstaff, Arizona, Northern Arizona University, Cline Library Learning Studio**
+**27–29 September 2019 — Society for Tantric Studies Conference, Flagstaff, Arizona**
+
+![](/assets/images/posts/screen_shot_2019-09-05_at_11.49.30_am.png)
+
+[+ Read more]({{ '/events/sauthoff-alchemical-spaces-2019/' | relative_url }})
 
 ---
 
 ### The Usman Report as a resource for Siddha Medicine, Yoga and Alchemy — Christèle Barois
-**25–27 July 2019 — Conference: Medicine, Religion & Alchemy in South India: Resources and Permutations of Siddha traditions and Siddha medicine, Tübingen University**
+**25–27 July 2019 — Tübingen University**
 
-Convenor: Roman Sieler.
+![](/assets/images/posts/screenshot_2019-03-09_at_11.36.19.png)
+
+[+ Read more]({{ '/events/barois-usman-report-siddha-2019/' | relative_url }})
 
 ---
 
 ### Suzanne Newcombe: 'The In-between Worlds of Yogis: Body Jumping, Immortality and Kayakalpa practices'
 **16 May 2019**
 
-This paper considered techniques of indefinite life extension in Indian yogic and Ayurvedic traditions, including the practice of kayakalpa and the movement of consciousness between bodies.
+![](/assets/images/posts/an00418747_001_l.jpg)
+
+[+ Read more]({{ '/events/newcombe-inbetween-worlds-yogis-2019/' | relative_url }})
 
 ---
 
-### Alchemy in Daoism and Haṭha Yoga — discussion with Professor Louis Komjathy and Dr James Mallinson
-**29 March 2019, 6pm — Brunei Gallery Lecture Theatre, SOAS, University of London**
+### Alchemy in Daoism and Haṭha Yoga — Louis Komjathy and James Mallinson
+**29 March 2019 — Brunei Gallery Lecture Theatre, SOAS, University of London**
 
-Chaired by Suzanne Newcombe (Open University and Inform, KCL). Free; booking required.
+![](/assets/images/posts/2_alchemy.jpg)
+
+[+ Read more]({{ '/events/alchemy-daoism-hatha-yoga-2019/' | relative_url }})
 
 ---
 
 ### Guest Lecture — "Yoga and Health in Modern India" — Suzanne Newcombe
-**20 March 2019, 1–3pm — Room S211, Paul Webley Wing, SOAS, University of London**
+**20 March 2019 — SOAS, University of London**
 
-Guest lecture for the MA in Traditions of Yoga and Meditation.
+![](/assets/images/posts/kuvalayananda_y_nehru-in-srd-mumbai.jpg)
+
+[+ Read more]({{ '/events/newcombe-yoga-health-modern-india-2019/' | relative_url }})
 
 ---
 
 ### Presentation by Dagmar Wujastyk: Old substances, new understandings — iron tonics and the roots of ayurvedic iatrochemistry
 **1 March 2019**
 
-On the profound changes in Sanskrit medical texts between the ninth and eleventh centuries CE, including the incorporation of new substances and alchemical processing methods.
+![](/assets/images/posts/4.jpg)
+
+[+ Read more]({{ '/events/wujastyk-old-substances-iron-tonics-2019/' | relative_url }})
 
 ---
 
 ## 2018
 
 ### AyurYog and Haṭha Yoga Project ERCcOMICS Event
-**10 December 2018, 7pm — SOAS Centre of Yoga Studies, University of London**
+**10 December 2018 — SOAS Centre of Yoga Studies, University of London**
 
-Joint reading and launch of the ERCcOMICS for AyurYog and the Haṭha Yoga Project, with James Mallinson and Suzanne Newcombe.
+![](/assets/images/posts/homepage-banner-ayurveda-4.jpg)
+
+[+ Read more]({{ '/events/erccomics-event-2018/' | relative_url }})
 
 ---
 
 ### Suzanne Newcombe: 'Immortality and miracle cures: The stretching of language in yoga and ayurveda'
-**28 November 2018, 1–2:30pm — Gulbenkian Building, University of Kent**
+**28 November 2018 — University of Kent**
 
-Research seminar for Religious Studies.
+![](/assets/images/posts/haidakhan_babaji.jpg)
+
+[+ Read more]({{ '/events/newcombe-immortality-miracle-cures-2018/' | relative_url }})
 
 ---
 
 ### Suzanne Newcombe: 'The Body in Contemporary Yoga and Ayurveda'
-**24 November 2018, 10am–5pm — Bush House Lecture Theatre 1, King's College London, 30 Aldwych, London WC2B 4BG**
+**24 November 2018 — King's College London**
 
-Inform Seminar: Health and Healing in Minority Religions, in conjunction with the Department of Theology and Religious Studies, KCL.
+![](/assets/images/posts/hamsasvarupadetail_0.jpg)
+
+[+ Read more]({{ '/events/newcombe-body-contemporary-yoga-2018/' | relative_url }})
 
 ---
 
 ### Lecture by Christèle Barois: La production de la couleur selon la médecine classique indienne
 **22–23 November 2018**
 
-On colour as an attribute of matter in the classical Indian medical texts — the *Carakasaṃhitā*, *Suśrutasaṃhitā*, *Aṣṭāṅgahṛdayasaṃhitā* and *Aṣṭāṅgasaṃgraha*.
+![](/assets/images/posts/image1.gif)
+
+[+ Read more]({{ '/events/barois-production-couleur-2018/' | relative_url }})
 
 ---
 
 ### Suzanne Newcombe: 'The status of indigenous medicine in India from the colonial period to the present'
 **8 November 2018 — University of Kent**
 
-Workshop as part of the Wellcome Investigator Award project 'Law Knowledges and the Making of Modern Health Care'.
+![](/assets/images/posts/kuvalayananda_y_nehru-in-srd-mumbai_0.jpg)
+
+[+ Read more]({{ '/events/newcombe-indigenous-medicine-status-2018/' | relative_url }})
 
 ---
 
 ### 'The Doctor from India' Film Screening and Discussion
-**26 October 2018, 18:30–20:30 — SOAS, University of London**
+**26 October 2018 — SOAS, University of London**
+
+![](/assets/images/posts/ladimage.jpg)
+
+[+ Read more]({{ '/events/doctor-from-india-film-2018/' | relative_url }})
 
 ---
 
 ### Public Discussion on What is Yoga? — Suzanne Newcombe
-**23 September 2018 — Triyoga London, 2nd floor Kingly Court, Soho, London W1B 5PW**
+**23 September 2018 — Triyoga London**
+
+![](/assets/images/posts/7662.jpg)
+
+[+ Read more]({{ '/events/newcombe-what-is-yoga-2018/' | relative_url }})
 
 ---
 
 ### Presentation by Dagmar Wujastyk: On medicine and alchemy in the Kalyāṇakāraka
-**12 July 2018, 3:00–3:30pm — World Sanskrit Conference, Panel 22: Yoga and Ayurveda, Allard Forum, UBC, Vancouver**
+**12 July 2018 — World Sanskrit Conference, UBC, Vancouver**
+
+![](/assets/images/posts/tirthankara.jpeg)
+
+[+ Read more]({{ '/events/wujastyk-kalyanakara-wsc-2018/' | relative_url }})
 
 ---
 
 ### Presentation by Christèle Barois: On a List of Sixty-Four Yoga Powers in Śaiva Purāṇic Literature
-**11 July 2018, 2:00–2:30pm — World Sanskrit Conference, Panel 22: Yoga and Ayurveda, Allard Forum, UBC, Vancouver**
+**11 July 2018 — World Sanskrit Conference, UBC, Vancouver**
+
+![](/assets/images/posts/kundalini-1-1.jpg)
+
+[+ Read more]({{ '/events/barois-sixty-four-yoga-powers-wsc-2018/' | relative_url }})
 
 ---
 
 ### Yoga and Ayurveda Panel at the 17th World Sanskrit Conference
 **9–14 July 2018 — UBC, Vancouver**
 
-Convened by Dagmar Wujastyk and Philipp A. Maas. The panel took place on Wednesday 11 and Thursday 12 July.
+![](/assets/images/posts/wsc2018logo-alt-white-dec2017-200px-1.png)
+
+[+ Read more]({{ '/events/wsc-yoga-ayurveda-panel-2018/' | relative_url }})
 
 ---
 
 ### Suzanne Newcombe speaking on "1923 Usman Report on Indigenous Medicine"
 **18 June 2018 — All Party Parliamentary Group on Indian Traditional Sciences / Nehru Centre, London**
 
-Celebrating UN International Yoga Day 2018 and NHS@70.
+![](/assets/images/posts/usman_small_2.jpg)
+
+[+ Read more]({{ '/events/newcombe-usman-report-yoga-day-2018/' | relative_url }})
 
 ---
 
-### Presentation by Dagmar Wujastyk: Verjüngungskuren im Ayurveda. Fragen zu Autorität, Authentizität und Wissenschaftlichkeit
-**27 May 2018, 11:30–12:00 — Ayurveda Days, Vienna**
+### Presentation by Dagmar Wujastyk: Verjüngungskuren im Ayurveda
+**27 May 2018 — Ayurveda Days, Vienna**
+
+![](/assets/images/posts/turmeric_brickdust_mercury_-_2.jpg)
+
+[+ Read more]({{ '/events/wujastyk-verjuengungskuren-2018/' | relative_url }})
 
 ---
 
 ### AyurYog at the opening of the SOAS Centre of Yoga Studies
-**8 May 2018, 6–8pm — SOAS, University of London**
+**8 May 2018 — SOAS, University of London**
 
-Suzanne Newcombe presented the AyurYog project. The event also launched the open-access *Journal of Yoga Studies*.
+![](/assets/images/posts/1911_001.jpg)
+
+[+ Read more]({{ '/events/ayuryog-soas-centre-yoga-studies-2018/' | relative_url }})
 
 ---
 
 ### Images of Indian Gods and Objects of Immortality — Suzanne Newcombe
-**7 April 2018, 10:30–16:30 — British Museum, Stevenson Lecture Theatre, London**
+**7 April 2018 — British Museum, London**
 
-Study Day: Understanding Religion Through Objects.
+![](/assets/images/posts/bm_patanjali_shiva_linga_image.jpg)
+
+[+ Read more]({{ '/events/newcombe-british-museum-2018/' | relative_url }})
 
 ---
 
 ### Guest Lecture — "Yoga and Health in Modern India" — Suzanne Newcombe
-**19 March 2018, 3–5pm — Room G51a, Ground Floor, Main Building, SOAS**
+**19 March 2018 — SOAS, University of London**
 
-Guest lecture for the MA in Traditions of Yoga and Meditation.
+![](/assets/images/posts/southern_naval_command_celebrates_international_yoga_day_2017_01.jpg)
+
+[+ Read more]({{ '/events/newcombe-yoga-health-modern-india-2018/' | relative_url }})
 
 ---
 
 ### Presentation by Dagmar Wujastyk: AyurYog: Entangled Histories of Yoga, Ayurveda and Alchemy in South Asia
-**2 March 2018, 10:30 — Lehar Gasse 6-8, 1060 Vienna**
+**2 March 2018 — Vienna**
+
+![](/assets/images/posts/yogi_mural_mahamandir_jodhpur1820.jpg)
+
+[+ Read more]({{ '/events/wujastyk-ayuryog-presentation-2018/' | relative_url }})
 
 ---
 
 ### Interview with Suzanne Newcombe: "Authenticity and Transformations in Yoga Traditions"
-**18 February 2018, 4pm EST (9pm GMT) — Online conference: Embodied Philosophy: Yoga Reconsidered**
+**18 February 2018 — Online conference: Embodied Philosophy: Yoga Reconsidered**
+
+[+ Read more]({{ '/events/newcombe-authenticity-transformations-2018/' | relative_url }})
 
 ---
 
 ### Presentation by Dagmar Wujastyk: "Healthcare and longevity practices in yoga, ayurveda and rasaśāstra"
-**18 February 2018, 2pm EST (7pm GMT) — Online conference: Embodied Philosophy: Yoga Reconsidered**
+**18 February 2018 — Online conference: Embodied Philosophy: Yoga Reconsidered**
+
+[+ Read more]({{ '/events/wujastyk-healthcare-longevity-2018/' | relative_url }})
 
 ---
 
 ## 2017
 
 ### The medical practices of yogins in medieval India. The case of the Dharmaputrikā — Christèle Barois
-**19 October 2017, 6pm — Seminar Room SR 1, Institute for South Asian, Tibetan and Buddhist Studies, Spitalgasse 2, 1090 Vienna**
+**19 October 2017 — Institute for South Asian, Tibetan and Buddhist Studies, Vienna**
+
+![](/assets/images/posts/christele_in_pondicherry.jpg)
+
+[+ Read more]({{ '/events/barois-medical-practices-yogins-2017/' | relative_url }})
 
 ---
 
 ### Yoga, Ayurveda, Magic and Alchemy — Suzanne Newcombe
-**17 October 2017, 6:30–8:30pm — Rudolf Steiner House, 35 Park Road, London NW1 6XT**
+**17 October 2017 — Rudolf Steiner House, London**
 
-Beyond Asana: Asceticism, Alchemy and the Tangled Roots of Yoga talk series.
+![](/assets/images/posts/photographbyjoeylfromtheseriesholymen.jpg)
+
+[+ Read more]({{ '/events/newcombe-yoga-ayurveda-magic-alchemy-2017/' | relative_url }})
 
 ---
 
-### [Conference: Medicine and Yoga in South and Inner Asia]({{ '/events/conference-medicine-yoga-2017/' | relative_url }})
+### Conference: Medicine and Yoga in South and Inner Asia
 **1–3 August 2017 — University of Vienna**
 
-Body Cultivation, Therapeutic Intervention and the Sowa Rigpa Industry. Co-hosted with the Institute for Social Anthropology, Austrian Academy of Sciences. See the [full conference page]({{ '/events/conference-medicine-yoga-2017/' | relative_url }}) for the programme, abstracts, and videos.
+[+ Read more]({{ '/events/conference-medicine-yoga-south-inner-asia-2017/' | relative_url }})
 
 ---
 
-### Presentation by Dagmar Wujastyk: Potent panaceas — tracing the development from plant-based medicine to iatrochemistry in Ayurveda
+### Presentation by Dagmar Wujastyk: Potent panaceas — from plant-based medicine to iatrochemistry in Ayurveda
 **10 August 2017**
 
+![](/assets/images/posts/dsc_0449.jpg)
+
+[+ Read more]({{ '/events/wujastyk-potent-panaceas-2017/' | relative_url }})
+
 ---
 
-### Presentation by Suzanne Newcombe: Longevity practices in India during the modern period: public health imperatives and individual aspirations
+### Presentation by Suzanne Newcombe: Longevity practices in India during the modern period
 **2 August 2017 — Conference: Medicine and Yoga in South and Inner Asia, University of Vienna**
+
+![](/assets/images/posts/usman_small_0.jpg)
+
+[+ Read more]({{ '/events/newcombe-longevity-modern-india-2017/' | relative_url }})
 
 ---
 
 ### Presentation by Dagmar Wujastyk: Rasāyana in Sanskrit alchemical literature
 **1 August 2017 — Conference: Medicine and Yoga in South and Inner Asia, University of Vienna**
 
+![](/assets/images/posts/padmasana_6.jpg)
+
+[+ Read more]({{ '/events/wujastyk-rasayana-alchemical-lit-2017/' | relative_url }})
+
 ---
 
 ### Presentation by Christèle Barois: Longevity practices from the Chāndogya Upaniṣad onwards
 **1 August 2017 — Conference: Medicine and Yoga in South and Inner Asia, University of Vienna**
 
+![](/assets/images/posts/chandogya_ayuryog.jpg)
+
+[+ Read more]({{ '/events/barois-longevity-chandogya-2017/' | relative_url }})
+
 ---
 
 ### Presentation by Suzanne Newcombe: 'A Historical Overview on Yoga as a Medical Intervention'
-**23 June 2017, 10:50am — Nehru Centre, London**
+**23 June 2017 — Nehru Centre, London**
 
-One-day Symposium organised by the Nehru Centre and the All Party Parliamentary Group on Indian Traditional Sciences, to mark the 3rd UN International Day of Yoga.
+![](/assets/images/posts/nadishodhana_pranayama_-_international_day_of_yoga_celebration_-_ncsm_-_kolkata_2015-06-21_7439.jpeg)
+
+[+ Read more]({{ '/events/newcombe-yoga-medical-intervention-2017/' | relative_url }})
 
 ---
 
 ### Panel discussion at the Vienna International Centre for International Yoga Day
 **21 June 2017 — Vienna International Centre**
 
-AyurYog team member Suzanne Newcombe participated in a panel on 'Yoga, Wellness and Nutrition', organised by the Permanent Mission of India to the United Nations.
+![](/assets/images/posts/imgj21_1.jpeg)
+
+[+ Read more]({{ '/events/newcombe-vienna-yoga-day-2017/' | relative_url }})
 
 ---
 
 ### Philosophy in Contemporary Yoga Symposium — Triyoga, London
 **3 May 2017 — Triyoga, London**
 
-Panelists: Hamish Hendry, James Mallinson, Suzanne Newcombe, and Carlos Pomeda.
+![](/assets/images/posts/resizedimage363277-triyogacamden2633.jpg)
+
+[+ Read more]({{ '/events/philosophy-yoga-triyoga-2017/' | relative_url }})
 
 ---
 
 ### Christèle Barois: The Dharmaputrikā: A textual apparatus for yoga
-**20 April 2017, 4:30pm — IFP Talk Series, French Institute of Pondicherry, New Conference Hall, 11 Saint Louis Street, Pondicherry 605 001**
+**20 April 2017 — French Institute of Pondicherry**
+
+[+ Read more]({{ '/events/barois-dharmaputrika-pondicherry-2017/' | relative_url }})
 
 ---
 
 ### Guest lecture by Suzanne Newcombe: "Yoga in the Modern Period"
-**22 March 2017, 1–3pm — Room 559, Main Building, SOAS, University of London**
+**22 March 2017 — SOAS, University of London**
 
-Guest lecture for the Traditions of Yoga and Meditation MA course.
+![](/assets/images/posts/modern_yoga_0.png)
+
+[+ Read more]({{ '/events/newcombe-yoga-modern-period-soas-2017/' | relative_url }})
 
 ---
 
 ### Presentation by Suzanne Newcombe: Immortality and the Medical Interventions of Sadhus
-**28 February 2017, 17:30–19:00 — King's College London, Room 3.01 (Virginia Woolf Building)**
+**28 February 2017 — King's College London**
 
-Social Sciences and Religion seminar.
+![](/assets/images/posts/sadhu.png)
+
+[+ Read more]({{ '/events/newcombe-immortality-sadhus-2017/' | relative_url }})
 
 ---
 
 ## 2016
 
 ### Presentation by Christèle Barois: Medical practices and yoga — the case of the Dharmaputrikā
-**3–4 November 2016 — Université de Strasbourg, Salle Europe, MISHA**
+**3–4 November 2016 — Université de Strasbourg**
 
-*Penser l'Université de Demain: Faire dialoguer recherche fondamentale et humanités.* Presentation on 4 November, 10h45–11h30.
+![](/assets/images/posts/strasbourg_conference.png)
+
+[+ Read more]({{ '/events/barois-dharmaputrika-strasbourg-2016/' | relative_url }})
 
 ---
 
-### AyurYog Workshop: Rejuvenation, longevity, immortality. Perspectives on rasāyana, kāyakalpa and bcud len practices
+### AyurYog Workshop: Rejuvenation, longevity, immortality
 **21–22 October 2016 — University of Vienna**
 
-Two-day workshop exploring the historically linked South and Inner Asian practices of *rasāyana*, *kāyakalpa* and *bcud len*. See the [blog post]({{ '/blog/workshop-rasayana-kayakalpa-bcud-len/' | relative_url }}) for further details.
+![](/assets/images/posts/bronze-shodhana-1.jpg)
+
+[+ Read more]({{ '/events/workshop-rasayana-kayakalpa-2016/' | relative_url }})
 
 ---
 
-### Presentation by Christèle Barois: The Dharmaputrikā — Sept 12, 16:30–17:30
-**12–16 September 2016 — Sanskrit Texts on Yoga: A Manuscript Workshop, SOAS, University of London and All Souls College, Oxford**
+### Presentation by Christèle Barois: The Dharmaputrikā — 12 September 2016
+**12–16 September 2016 — Sanskrit Texts on Yoga: A Manuscript Workshop, SOAS and All Souls College, Oxford**
+
+![](/assets/images/posts/dharmaputrika.jpg)
+
+[+ Read more]({{ '/events/barois-dharmaputrika-soas-2016/' | relative_url }})
 
 ---
 
-### Dagmar Wujastyk: From herbal-based medicine to iatrochemistry — System changes in classical Indian medicine
-**22–26 June 2016 — Society for the History of Technology (SHOT) 2016 Annual Meeting, Singapore (videoconference presentation)**
+### Dagmar Wujastyk: From herbal-based medicine to iatrochemistry
+**22–26 June 2016 — SHOT Annual Meeting, Singapore (videoconference)**
+
+![](/assets/images/posts/singapur.jpg)
+
+[+ Read more]({{ '/events/wujastyk-iatrochemistry-shot-2016/' | relative_url }})
 
 ---
 
 ### BBC Radio 4: The Secret History of Yoga
 **17 June 2016**
 
-As UN International Yoga Day approached, Mukti Jain Campion explored the roots of modern yoga practice. AyurYog research featured in the programme, available at <http://www.bbc.co.uk/programmes/b07flbst>.
+![](/assets/images/posts/yogaradio.png)
+
+[+ Read more]({{ '/events/bbc-secret-history-yoga-2016/' | relative_url }})
 
 ---
 
 ### Suzanne Newcombe: Relaxation in 20th Century Yoga — a Key to Health, Beauty and Eternal Youth?
-**17 June 2016 — The Hub, Wellcome Collection, London**
+**17 June 2016 — Wellcome Collection, London**
 
-Symposium "Relaxation in Modern Life: Therapeutics, Histories and Meanings", funded by the Wellcome Trust.
+[+ Read more]({{ '/events/newcombe-relaxation-yoga-2016/' | relative_url }})
 
 ---
 
 ### Conference: yogadarśana, yogasādhana — Traditions, Transmissions, Transformations
 **19–21 May 2016 — Jagiellonian University, Kraków, Poland**
 
-Christèle Barois, Suzanne Newcombe, and Dagmar Wujastyk presented at this international academic conference.
+![](/assets/images/posts/tapaswiji_maharaj.jpg)
 
-Presentation by Suzanne Newcombe: *Trust, Authenticity and Inspiration — an exploration of kāyakalpa/rasāyana practices among modern and contemporary yoga practitioners*
+[+ Read more]({{ '/events/conference-yogadarsana-krakow-2016/' | relative_url }})
 
 ---
 
 ### Presentation by Suzanne Newcombe: "Entangled histories of yoga, ayurveda and rasaśāstra"
-**8 March 2016, 2:30pm — Indian Religions Senior Seminar, Faculty of Divinity, Cambridge**
+**8 March 2016 — Faculty of Divinity, Cambridge**
+
+[+ Read more]({{ '/events/newcombe-entangled-histories-cambridge-2016/' | relative_url }})
 
 ---
 
 ### Presentation by Suzanne Newcombe: "Yoga, Ayurveda and alchemy in the modern period"
-**24 February 2016 — Religious Studies Research Day, Open University Camden, London**
+**24 February 2016 — Open University, London**
+
+[+ Read more]({{ '/events/newcombe-yoga-ayurveda-alchemy-ou-2016/' | relative_url }})
 
 ---
 
 ### Radio interview with Dagmar Wujastyk: Radiodoktor — das Ö1 Gesundheitsmagazin
 **17 February 2016**
 
-Interview on yoga as a modern practice for health and its roots in yoga literature, broadcast on Austrian public radio. First aired 17 February 2016 at 16:47.
+[+ Read more]({{ '/events/wujastyk-radiodoktor-2016/' | relative_url }})
 
 ---
 
@@ -389,9 +531,11 @@ Interview on yoga as a modern practice for health and its roots in yoga literatu
 ### Lecture by Christèle Barois: "A few remarks on the textual organization of yoga and ayurveda materials"
 **10 December 2015 — Paris, CEIAS/EHESS**
 
-Seminar series *Science, spiritualité et ésotérisme: Approches anthropologiques à partir de l'Inde*, led by Caterina Guenzi and Raphaël Voix.
+[+ Read more]({{ '/events/barois-textual-organization-ehess-2015/' | relative_url }})
 
 ---
 
 ### Suzanne Newcombe: 'Yoga, Ayurveda and Immortality: The Case of Swami Ramdev'
-**8–9 September 2015 — British Association for the Study of Religion (BASR) Annual Conference, University of Kent, Canterbury**
+**8–9 September 2015 — BASR Annual Conference, University of Kent**
+
+[+ Read more]({{ '/events/newcombe-swami-ramdev-basr-2015/' | relative_url }})

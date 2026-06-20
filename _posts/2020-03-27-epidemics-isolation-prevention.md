@@ -6,6 +6,8 @@ author: Patricia Sauthoff
 permalink: /blog/epidemics-isolation-and-prevention/
 ---
 
+![](/assets/images/posts/sarasvati_ayurveda_advert_0.jpg)
+
 On March 25, UK news broadcaster Sky News [reported](https://news.sky.com/story/coronavirus-nearly-half-the-worlds-population-now-under-restrictions-11963490) that at least three billion people — nearly half of the world’s population — are under restriction due to the COVID19 coronavirus outbreak. Healthcare systems across the world are being tested as doctors from China to India to Italy to the US work around the clock to cure those afflicted with illness while the rest of us stay at home in an attempt to prevent the virus from spreading further.
 
 Epidemics have long been on the minds of medical writers. Infectious diseases present challenges for physicians. Without treatment or vaccines they can have a profound impact on populations in a very short amount of time. While doctors seek treatment and cures, religious practitioners innovate. The goddess Śītalā, for example, is worshipped as an incarnation of Durga who cures poxes, sores, and other diseases. Fabrizio Ferarri’s 2015 *Religion, Devotion and Medicine in North India: The Healing Power of Śītalā *traces the evolution of this folk goddess as she is first thought to cure disease and later becomes the most important deity for those suffering from smallpox.
@@ -14,7 +16,12 @@ Within the Pāli Canon we find references to dysentery, a bacterial or parasitic
 
  
 
-> You do not have your mother or father to care for you. If you do not nurse one another, then who will look after you? Monks, one who would serve me should nurse the sick. If you have a preceptor, then you should be nursed for life by your preceptor, who should stay until your recovery. If you have a teacher, then you should be nursed for life by your teacher, who should stay until your recovery. If you have a fellow monastic, then you should be nursed for life by your fellow monastic, who should stay until your recovery. If you have a student, then you should be nursed for life by your student, who should stay until your recovery. If you have a companion with the same preceptor, then you should be nursed for life by your companion with the same preceptor, who should stay until your recovery. If you have a companion with the same teacher, then you should be nursed for life by your companion with the same teacher, who should stay until your recovery. If you have neither preceptor, nor teacher, nor fellow monastic, nor pupil, nor companion with the same preceptor, nor companion with the same teacher, then you should be nursed by the sangha. If you will not care for someone, that is an offense of wrongdoing (Jones 2017: 8)
+> 
+
+You do not have your mother or father to care for you. If you do not nurse one another, then who will look after you? Monks, one who would serve me should nurse the sick. If you have a preceptor, then you should be nursed for life by your preceptor, who should stay until your recovery. If you have a teacher, then you should be nursed for life by your teacher, who should stay until your recovery. If you have a fellow monastic, then you should be nursed for life by your fellow monastic, who should stay until your recovery. If you have a student, then you should be nursed for life by your student, who should stay until your recovery. If you have a companion with the same preceptor, then you should be nursed for life by your companion with the same preceptor, who should stay until your recovery. If you have a companion with the same teacher, then you should be nursed for life by your companion with the same teacher, who should stay until your recovery. If you have neither preceptor, nor teacher, nor fellow monastic, nor pupil, nor companion with the same preceptor, nor companion with the same teacher, then you should be nursed by the sangha. If you will not care for someone, that is an offense of wrongdoing (Jones 2017: 8)
+
+> 
+
 
  
 
@@ -24,31 +31,36 @@ Where the Buddha encourages the community to care for one another, the *Carakasa
 
  
 
-> The following kinds of sick people should not be treated with humoral drainage, or any other therapy, even if the time is right for it:  
 > 
-> *someone who has taken no action against a denunciation;  
+
+The following kinds of sick people should not be treated with humoral drainage, or any other therapy, even if the time is right for it:  
+
+*someone who has taken no action against a denunciation;  
+
+*someone poor;  
+
+*someone with no servants;  
+
+*those who fancy themselves as doctors;  
+
+*a violent person:  
+
+*a slanderer;  
+
+*one who takes pleasure in blatant wrongdoings;  
+
+*one whose blood or flesh is greatly enfeebled;  
+
+*someone assailed by an incurable disease;  
+
+*someone who shows signs of being about to die.   
+
+A physician who treats a sick person of this kind attracts a dreadful reputation.   
+
+There is a saying: It is the opinion of the wise that if an action produces a bad result, now or later, one should not perform it. (CS Vimānasthāna 3.45; *Trsl. Wujastyk 1998: 49*)
+
 > 
-> *someone poor;  
-> 
-> *someone with no servants;  
-> 
-> *those who fancy themselves as doctors;  
-> 
-> *a violent person:  
-> 
-> *a slanderer;  
-> 
-> *one who takes pleasure in blatant wrongdoings;  
-> 
-> *one whose blood or flesh is greatly enfeebled;  
-> 
-> *someone assailed by an incurable disease;  
-> 
-> *someone who shows signs of being about to die.   
-> 
-> A physician who treats a sick person of this kind attracts a dreadful reputation.   
-> 
-> There is a saying: It is the opinion of the wise that if an action produces a bad result, now or later, one should not perform it. (CS Vimānasthāna 3.45; *Trsl. Wujastyk 1998: 49*)
+
 
  
 
@@ -60,7 +72,12 @@ Access to medical supplies also plays a strong role in *Caraka*. The text descri
 
  
 
-> A physician, who wishes to make a king or wealthy minister drink an emetic or purge should prepare the supplies before they take the medicine. And if the medicine goes well, then the supplies can be used as additional items of diet; if the medicine fails, then once the problems have been reckoned up, it can be used remedially. For even if they are available in the market, it is not easy or appropriate to obtain medicines quickly very close to the time at which the crisis develops. (CS Sūtrasthāna 15.3; Trsl. Wujastyk 1998: 35)
+> 
+
+A physician, who wishes to make a king or wealthy minister drink an emetic or purge should prepare the supplies before they take the medicine. And if the medicine goes well, then the supplies can be used as additional items of diet; if the medicine fails, then once the problems have been reckoned up, it can be used remedially. For even if they are available in the market, it is not easy or appropriate to obtain medicines quickly very close to the time at which the crisis develops. (CS Sūtrasthāna 15.3; Trsl. Wujastyk 1998: 35)
+
+> 
+
 
  
 
@@ -70,11 +87,16 @@ Epidemics are signaled by environmental changes and can be traced back to corrup
 
  
 
-> Thus, when the leaders in a district, city, guild, or community transgress virtue, they cause their people to live unrighteously. Their subjects and dependents from town and country, and those who make their living from commerce, start to make that unrighteousness grow. The next thing is that the unrighteousness suddenly overwrites virtue. Then, those whose virtue is overwhelmed are abandoned even by the gods. Next, the seasons bring calamity on those who have unrighteous leaders, on those who have been abandoned by the gods.  
 > 
-> So the rains do not provide water at the proper time, or it rains in the wrong way. The winds do not blow properly. The earth suffers disaster. The waters dry up. The herbs become denatured, and mutate.   
+
+Thus, when the leaders in a district, city, guild, or community transgress virtue, they cause their people to live unrighteously. Their subjects and dependents from town and country, and those who make their living from commerce, start to make that unrighteousness grow. The next thing is that the unrighteousness suddenly overwrites virtue. Then, those whose virtue is overwhelmed are abandoned even by the gods. Next, the seasons bring calamity on those who have unrighteous leaders, on those who have been abandoned by the gods.  
+
+So the rains do not provide water at the proper time, or it rains in the wrong way. The winds do not blow properly. The earth suffers disaster. The waters dry up. The herbs become denatured, and mutate.   
+
+Then they bring epidemic destruction on the localities, because of the corruption in what one touches, and in what is edible. (CS Vimānasthāna 3.20; Trsl. Wujastyk 1998: 41-42)
+
 > 
-> Then they bring epidemic destruction on the localities, because of the corruption in what one touches, and in what is edible. (CS Vimānasthāna 3.20; Trsl. Wujastyk 1998: 41-42)
+
 
  
 

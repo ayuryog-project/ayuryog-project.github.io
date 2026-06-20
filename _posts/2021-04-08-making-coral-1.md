@@ -6,6 +6,8 @@ author: Dagmar Wujastyk
 permalink: /blog/reconstructing-indian-alchemy-making-coral-1/
 ---
 
+![](/assets/images/posts/conch_cinnabar_milk_0.jpg)
+
 New series!
 
 **Reconstructing Indian alchemy: Making coral**

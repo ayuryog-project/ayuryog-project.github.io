@@ -6,6 +6,8 @@ author: Dagmar Wujastyk
 permalink: /blog/final-experiment-gold-imitation-chalcopyrite/
 ---
 
+![](/assets/images/posts/vimala_63_0.jpg)
+
 **Gold imitation with chalcopyrite**
 
 We have come to the final experiment of this series!

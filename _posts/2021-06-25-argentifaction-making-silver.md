@@ -6,6 +6,8 @@ author: Dagmar Wujastyk
 permalink: /blog/argentifaction-making-silver/
 ---
 
+![](/assets/images/posts/low_rez.jpg)
+
 **Argentifaction – Making silver**
 
 When Andrew and I selected recipes for this series of experiments, we favoured recipes that appeared simple. Method 14 for making silver made the cut because it was short and featured only a few ingredients: copper, brass, bronze, arsenic sulfide, and silver. Nothing too fancy.

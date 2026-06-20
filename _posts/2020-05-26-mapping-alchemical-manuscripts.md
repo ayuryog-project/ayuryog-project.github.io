@@ -6,6 +6,8 @@ author: Keith Cantú
 permalink: /blog/mapping-alchemical-manuscripts/
 ---
 
+![](/assets/images/posts/02_-_rasaratnakara_v2.png)
+
 **Mapping alchemical manuscripts**
 
 *Guest blog by Keith Cantú*
