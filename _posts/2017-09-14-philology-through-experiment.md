@@ -40,13 +40,15 @@ You can see below the dry British cow dung, very similar to that of Indian cows,
 
  
 
-![](/assets/images/posts/cowdung_barois_2015.jpg)
+![](https://lh4.googleusercontent.com/N-mL2INC_ClYNhYS70xXLlKE9gz07ESgXBQU8j9BBAsImgXiuYkqln1nQzW_lHZDfSEfzVyeyuFiwTxPCofbHtQ7YkRwd15m6lBnn9SD1aH6lV93iuqhdzhEFbI4vCC3y_1P-D78)
 
 (Photograph by Christèle Barois/AyurYog 2015)
 
  
 
- ![](/assets/images/posts/puta_newcombe_2015.jpg)
+![DSC_0856.JPG](https://lh6.googleusercontent.com/ZNZDSYK_QFUBX0KosMbJt4j3zpH4GWUIqxn5v2-jkYBHQCuFHrsNJeRt33g4KzKZZ61LWunHSxDBcj_fJ2iW5jljOUOzH1sncgas3Nx-8Cg0AM879jpI6twrXnvAgpgUorqwPZRK)
+
+ 
 
 The fire pit (*puṭa*). Photograph by Suzanne Newcombe/AyurYog 2015)
 
@@ -74,7 +76,7 @@ The last session of the workshop “Sanskrit texts on Yoga: a manuscript worksho
 
 For example, the picture below is a representation of the hatchet posture (*paraśvadhāsanam*), along with the Sanskrit text (in *kannaḍa* script).
 
-![Image, from Sjoman, N.E., 1999.  The Yoga Tradition of the Mysore Palace.  Delhi: Abhinav Publications, second revised edition](/assets/images/posts/20170914_105917-1.jpg)
+![Image, from Sjoman, N.E., 1999.  The Yoga Tradition of the Mysore Palace.  Delhi: Abhinav Publications, second revised edition](http://ayuryog.org/sites/default/files/20170914_105917-1.jpg?itok=BwHsKXbU)
 
 *Haṭhābhyāsapaddhati 3 (= Śrītattvanidhi* 16), *paraśvadhāsanam* (hatchet posture):
 
@@ -96,9 +98,11 @@ While the Sanskrit text of the *Haṭhābhyāsapaddhati* was read, and this pict
 
  
 
-![Haṭha Yoga Project Workshop October 2016 at SOAS, photo by Jacqueline Hargreaves](/assets/images/posts/soas_hatha_yoga_project_workshop.jpg)
+![Haṭha Yoga Project Workshop October 2016 at SOAS, photo by Jacqueline Hargreaves](http://ayuryog.org/sites/default/files/soas_hatha_yoga_project_workshop.jpg?itok=fyfQ98xT)
 
- (Photograph by Jacqueline Hargreaves 2016)
+ 
+
+(Photograph by Jacqueline Hargreaves 2016)
 
  
 
