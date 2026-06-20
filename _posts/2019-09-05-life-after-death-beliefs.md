@@ -6,7 +6,7 @@ author: Suzanne Newcombe
 permalink: /blog/how-think-about-life-after-death-beliefs/
 ---
 
-Drawing on some her Ayuryog research, Suzanne Newcombe has created a short reflection with the Open University on how to think about what happens after death - and the practices which may be associated with life extension or immortality. See the short, free OpenLearn page [here](https://web.archive.org/web/20211019091534/https://www.open.edu/openlearn/history-the-arts/philosophy/life-after-death).
+Drawing on some her Ayuryog research, Suzanne Newcombe has created a short reflection with the Open University on how to think about what happens after death - and the practices which may be associated with life extension or immortality. See the short, free OpenLearn page [here](https://www.open.edu/openlearn/history-the-arts/philosophy/life-after-death).
 
 In it she argues that by critically examining what information sources we trust and by asking important questions about the effects of beliefs and practices, we can start to more judiciously evaluate beliefs and their associated actions.
 

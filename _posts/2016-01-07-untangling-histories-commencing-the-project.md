@@ -6,7 +6,7 @@ author: Suzanne Newcombe
 permalink: /blog/untangling-histories-commencing-project/
 ---
 
-*Image: The author melting zinc under the instructions of [Andrew Mason](https://web.archive.org/web/20220707112919/http://www.neterapublishing.com/rasa_shastra.shtml). This is one of the steps in the preparation of a zinc rasāyana.*
+*Image: The author melting zinc under the instructions of [Andrew Mason](http://www.neterapublishing.com/rasa_shastra.shtml). This is one of the steps in the preparation of a zinc rasāyana.*
 
  
 

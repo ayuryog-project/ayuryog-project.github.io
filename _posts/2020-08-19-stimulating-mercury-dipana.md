@@ -14,7 +14,7 @@ We have arrived at the eighth, and for us, final procedure! This step is called 
 
  
 
-Steaming again. This is the third time mercury has been steamed. To jog your memory: We steamed it for[ procedure 1, 'steaming' (svedana)](https://web.archive.org/web/20221207075738/http://youtu.be/jM7sg4LCKaM), and also for [procedure 7, 'fixing' (niyamana)](https://web.archive.org/web/20221207075738/http://https//youtu.be/vNCh9fs7Yvg), though using different ingredients for the herbal/mineral pouch and different liquids for steaming each time. The general procedure of steaming, with further variations in ingredients and liquids, is applied in several of the following procedures as well (which we, however, won't be recreating). Andrew felt he was really starting to get the hang of it. He certainly developed a certain skill in sewing fig leaves into bowls!
+Steaming again. This is the third time mercury has been steamed. To jog your memory: We steamed it for[ procedure 1, 'steaming' (svedana)](http://youtu.be/jM7sg4LCKaM), and also for [procedure 7, 'fixing' (niyamana)](http://https//youtu.be/vNCh9fs7Yvg), though using different ingredients for the herbal/mineral pouch and different liquids for steaming each time. The general procedure of steaming, with further variations in ingredients and liquids, is applied in several of the following procedures as well (which we, however, won't be recreating). Andrew felt he was really starting to get the hang of it. He certainly developed a certain skill in sewing fig leaves into bowls!
 
 ![https://www.ayuryog.org/sites/default/files/img-20200722-wa0001_0.jpg](/assets/images/posts/img-20200722-wa0001_0.jpg)
 
@@ -56,7 +56,7 @@ The mercury is very shiny now, and that is satisying, given that *dīpana *can a
 
 ![https://www.ayuryog.org/sites/default/files/mercury_after_steaming.jpg](/assets/images/posts/mercury_after_steaming.jpg)
 
-![https://www.ayuryog.org/sites/default/files/clean_mercury.jpg](https://web.archive.org/web/20221207075738im_/https://www.ayuryog.org/sites/default/files/clean_mercury.jpg)
+![https://www.ayuryog.org/sites/default/files/clean_mercury.jpg](https://www.ayuryog.org/sites/default/files/clean_mercury.jpg)
 
  
 

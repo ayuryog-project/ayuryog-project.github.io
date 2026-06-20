@@ -18,45 +18,45 @@ We assume the reference to steaming means this procedure is executed with a 'swi
 
 All of the ingredients are crushed and mashed together to be formed into a herbal pouch into which the mercury is then placed. As in the very first procedure of steaming (*svedana*), the herbal pouch is placed in fig leaves, and the leaves, herbal pouch, and mercury are wrapped in cloth and then hung over, or rather, into the liquid in the swing-device. Andrew took inspiration from Dr Jinal Thakkar's beautifully sown fig leaf pouch and produced one of his own.
 
-![https://www.ayuryog.org/sites/default/files/kashmiri_garlic.jpg](https://web.archive.org/web/20221207075953im_/https://www.ayuryog.org/sites/default/files/kashmiri_garlic.jpg)![https://www.ayuryog.org/sites/default/files/kashimir_garlic_unpeeled.jpg](https://web.archive.org/web/20221207075953im_/https://www.ayuryog.org/sites/default/files/kashimir_garlic_unpeeled.jpg)
+![https://www.ayuryog.org/sites/default/files/kashmiri_garlic.jpg](https://www.ayuryog.org/sites/default/files/kashmiri_garlic.jpg)![https://www.ayuryog.org/sites/default/files/kashimir_garlic_unpeeled.jpg](https://www.ayuryog.org/sites/default/files/kashimir_garlic_unpeeled.jpg)
 
 Kashmiri garlic, peeled and unpeeled. The cloves are crushed into a paste.
 
-![https://www.ayuryog.org/sites/default/files/piper_betel.jpg](https://web.archive.org/web/20221207075953im_/https://www.ayuryog.org/sites/default/files/piper_betel.jpg)![https://www.ayuryog.org/sites/default/files/crushed_betel_leaf.jpg](https://web.archive.org/web/20221207075953im_/https://www.ayuryog.org/sites/default/files/crushed_betel_leaf.jpg)
+![https://www.ayuryog.org/sites/default/files/piper_betel.jpg](https://www.ayuryog.org/sites/default/files/piper_betel.jpg)![https://www.ayuryog.org/sites/default/files/crushed_betel_leaf.jpg](https://www.ayuryog.org/sites/default/files/crushed_betel_leaf.jpg)
 
 Piper betel leaves, which are then crushed and made into a paste.
 
-![https://www.ayuryog.org/sites/default/files/spiny_gourd_but_actually_bitter_gourd.jpg](https://web.archive.org/web/20221207075953im_/https://www.ayuryog.org/sites/default/files/spiny_gourd_but_actually_bitter_gourd.jpg)
+![https://www.ayuryog.org/sites/default/files/spiny_gourd_but_actually_bitter_gourd.jpg](https://www.ayuryog.org/sites/default/files/spiny_gourd_but_actually_bitter_gourd.jpg)
 
 This should have been spiny gourd, but we only had bitter gourd.
 
  
 
-![https://www.ayuryog.org/sites/default/files/tamarind_seeds_in_pod.jpg](https://web.archive.org/web/20221207075953im_/https://www.ayuryog.org/sites/default/files/tamarind_seeds_in_pod.jpg)![https://www.ayuryog.org/sites/default/files/tamarind_paste.jpg](https://web.archive.org/web/20221207075953im_/https://www.ayuryog.org/sites/default/files/tamarind_paste.jpg)
+![https://www.ayuryog.org/sites/default/files/tamarind_seeds_in_pod.jpg](https://www.ayuryog.org/sites/default/files/tamarind_seeds_in_pod.jpg)![https://www.ayuryog.org/sites/default/files/tamarind_paste.jpg](https://www.ayuryog.org/sites/default/files/tamarind_paste.jpg)
 
 Tamarind pods. The flesh of the tamarind fruit was pulped for the herbal pouch.
 
-![https://www.ayuryog.org/sites/default/files/tamarind_seeds.jpg](https://web.archive.org/web/20221207075953im_/https://www.ayuryog.org/sites/default/files/tamarind_seeds.jpg)![https://www.ayuryog.org/sites/default/files/tamarind_seeds_coarsely_ground.jpg](https://web.archive.org/web/20221207075953im_/https://www.ayuryog.org/sites/default/files/tamarind_seeds_coarsely_ground.jpg)
+![https://www.ayuryog.org/sites/default/files/tamarind_seeds.jpg](https://www.ayuryog.org/sites/default/files/tamarind_seeds.jpg)![https://www.ayuryog.org/sites/default/files/tamarind_seeds_coarsely_ground.jpg](https://www.ayuryog.org/sites/default/files/tamarind_seeds_coarsely_ground.jpg)
 
 Andrew used tamarind seeds to make a decoction for the steaming liquid.
 
-![https://www.ayuryog.org/sites/default/files/tamarind_seeds_crushed.jpg](https://web.archive.org/web/20221207075953im_/https://www.ayuryog.org/sites/default/files/tamarind_seeds_crushed.jpg)
+![https://www.ayuryog.org/sites/default/files/tamarind_seeds_crushed.jpg](https://www.ayuryog.org/sites/default/files/tamarind_seeds_crushed.jpg)
 
 The crushed tamarind seeds quickly dye the water red-brown.
 
-![https://www.ayuryog.org/sites/default/files/img-20200722-wa0001.jpg](https://web.archive.org/web/20221207075953im_/https://www.ayuryog.org/sites/default/files/img-20200722-wa0001.jpg)
+![https://www.ayuryog.org/sites/default/files/img-20200722-wa0001.jpg](https://www.ayuryog.org/sites/default/files/img-20200722-wa0001.jpg)
 
 The fancier version of the fig leaf bowl.
 
-![https://www.ayuryog.org/sites/default/files/herbal_pouch_for_svedana.jpg](https://web.archive.org/web/20221207075953im_/https://www.ayuryog.org/sites/default/files/herbal_pouch_for_svedana.jpg)
+![https://www.ayuryog.org/sites/default/files/herbal_pouch_for_svedana.jpg](https://www.ayuryog.org/sites/default/files/herbal_pouch_for_svedana.jpg)
 
 The herbal mixture is pressed into the fig leaf bowl.
 
-![https://www.ayuryog.org/sites/default/files/mercury_in_herbal_pouch.jpg](https://web.archive.org/web/20221207075953im_/https://www.ayuryog.org/sites/default/files/mercury_in_herbal_pouch.jpg)
+![https://www.ayuryog.org/sites/default/files/mercury_in_herbal_pouch.jpg](https://www.ayuryog.org/sites/default/files/mercury_in_herbal_pouch.jpg)
 
 The mercury (which has by then been put through six procedures) is poured into the pouch. The cloth is wrapped around to form a bolus, which will then be hung into the swing-device. This apparatus could also be called a 'hammock-device', as *dolā* means swing or hammock. The cloth acts as a kind of hammock for the herbal paste and the mercury.
 
-![https://www.ayuryog.org/sites/default/files/dolayantra_0.jpg](https://web.archive.org/web/20221207075953im_/https://www.ayuryog.org/sites/default/files/dolayantra_0.jpg)
+![https://www.ayuryog.org/sites/default/files/dolayantra_0.jpg](https://www.ayuryog.org/sites/default/files/dolayantra_0.jpg)
 
 The steaming takes place over three days, and Andrew noted that one uses a very large amount of charcoal for this, and needs to refill the stove very often.
 

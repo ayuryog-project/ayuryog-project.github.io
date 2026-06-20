@@ -10,8 +10,8 @@ ERCcOMICS is a project that uses the power of visual storytelling to communicat
 
 The Roots of Ayurveda will appear in several installments; the first can already be accessed here: 
 
-[https://erccomics.com/comics/ayurveda](https://web.archive.org/web/20230530095821/https://erccomics.com/comics/ayurveda)
+[https://erccomics.com/comics/ayurveda](https://erccomics.com/comics/ayurveda)
 
  
 
-The [Hatha Yoga Project](https://web.archive.org/web/20230530095821/http://hyp.soas.ac.uk/) at SOAS is also represented by ERCcOMICS. You can find the first installment of its cartoon, following the footsteps of P.I. James Mallinson and his first meeting with a group of Sadhus here: [https://erccomics.com/comics/hathayoga](https://web.archive.org/web/20230530095821/https://erccomics.com/comics/hathayoga)
+The [Hatha Yoga Project](http://hyp.soas.ac.uk/) at SOAS is also represented by ERCcOMICS. You can find the first installment of its cartoon, following the footsteps of P.I. James Mallinson and his first meeting with a group of Sadhus here: [https://erccomics.com/comics/hathayoga](https://erccomics.com/comics/hathayoga)
