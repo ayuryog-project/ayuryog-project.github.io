@@ -45,3 +45,5 @@ I have translated *mūrchā* as 'thickening' here, as this is what visibly happe
 As a final note here: this passage points to the fact that Indian alchemists were well aware of the toxicity of mercury. However, they felt that this toxicity could be addressed through the procedures, and that mercury could be made safe. Most of the alchemical texts describe the detrimental effects of mercury, but always emphasize that it is the intake of mercury that was not properly processed or taken in the wrong way that causes the problems, including death.
 
 Here is the third procedure, in Andrew's interpretation:
+
+<div class="video-wrap"><iframe src="https://www.youtube.com/embed/IddH7TmxdcU" allowfullscreen loading="lazy"></iframe></div>

@@ -71,3 +71,5 @@ So where does this leave us? Some later works, such as, for example, the *Rasapr
 Well, the cost, the effort, and the ever crazier ingredients have halted us in our tracks. So we are calling it quits. For now, at least. This experiment has given us much to think about. I will write another blog about my conclusions, such as they are. Really, I find I have more rather than fewer questions now.
 
 For now, let us enjoy the film of the eighth procedure:
+
+<div class="video-wrap"><iframe src="https://www.youtube.com/embed/6-xyt3Atmyg" allowfullscreen loading="lazy"></iframe></div>
