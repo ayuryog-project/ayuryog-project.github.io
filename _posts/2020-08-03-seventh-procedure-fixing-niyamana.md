@@ -71,3 +71,6 @@ Another possibility that we have to consider is that we may have got it wrong at
  
 
 Here is the film of the seventh procedure:
+
+<div class="video-wrap"><iframe src="https://www.youtube.com/embed/vNCh9fs7Yvg" allowfullscreen loading="lazy"></iframe></div>
+
