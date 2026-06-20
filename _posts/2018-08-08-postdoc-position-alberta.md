@@ -44,7 +44,7 @@ Forward your covering letter, CV and contact information for three references to
 
 Dagmar Wujastyk, PhD (Principal Investigator, Ayuryog)
 
-[[email&#160;protected]](/cdn-cgi/l/email-protection#0c686d6b616d7e227b79666d7f7875674c796d606e697e786d226f6d)   
+[[email&#160;protected]](/cdn-cgi/l/email-protection#a3c7c2c4cec2d18dd4d6c9c2d0d7dac8e3d6c2cfc1c6d1d7c28dc0c2)   
 
  
 

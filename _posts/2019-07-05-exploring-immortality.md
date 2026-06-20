@@ -6,6 +6,4 @@ author: Suzanne Newcombe
 permalink: /blog/exploring-immortality/
 ---
 
-To mark a new Open University BA (Hons) qualification in Religion, Philosophy and Ethics, Suzanne Newcombe and Carolyn Price recorded a conversation in which they discuss how researchers in Religious Studies and Philosophy approach the topic of immortality — and some of the ethical implications that follow.
-
-The *rasāyana* traditions that AyurYog studies are among the most elaborate historical attempts to think systematically about longevity, rejuvenation, and the extension of human life. Comparing these traditions with philosophical approaches to immortality opens up productive questions about the relationship between religious practice, material technology, and the aspiration to transcend ordinary human limitations.
+To mark a new Open University [BA (Hons) qualification in Religion, Philosophy and Ethics (R45)](https://web.archive.org/web/20220707111819/https://www.open.ac.uk/courses/qualifications/r45), Suzanne Newcombe and Carolyn Price have made an audio recording in which they discuss how researchers in Religious Studies and Philosophy investigate immortality and some of the ethical implications of the subject. Read more and listen to their conversation [here](https://web.archive.org/web/20220707111819/https://www.open.edu/openlearn/history-the-arts/philosophy/exploring-immortality).

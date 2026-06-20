@@ -6,8 +6,18 @@ author: Suzanne Newcombe
 permalink: /blog/how-think-about-life-after-death-beliefs/
 ---
 
-Drawing on her AyurYog research, Suzanne Newcombe has contributed a short reflection to the Open University's OpenLearn platform on how to think about beliefs and practices associated with what happens after death — and the practices which may be associated with life extension or immortality.
+Drawing on some her Ayuryog research, Suzanne Newcombe has created a short reflection with the Open University on how to think about what happens after death - and the practices which may be associated with life extension or immortality. See the short, free OpenLearn page [here](https://web.archive.org/web/20211019091534/https://www.open.edu/openlearn/history-the-arts/philosophy/life-after-death).
 
-The connection to AyurYog's themes is direct: the project's core focus on *rasāyana* (rejuvenation and longevity) practices puts us squarely in the territory of traditions that claim to extend life, delay ageing, and in some cases achieve bodily immortality. How scholars of religion approach these claims — neither dismissing them as mere superstition nor accepting them uncritically — is a methodological question of broader relevance.
+In it she argues that by critically examining what information sources we trust and by asking important questions about the effects of beliefs and practices, we can start to more judiciously evaluate beliefs and their associated actions.
 
-The OpenLearn page is freely available [here](https://www.open.edu/openlearn/history-the-arts/philosophy/life-after-death).
+For example, we can ask:
+
+Do these beliefs provide hope and meaning to those who hold them?
+What are the actions people take in response to specific beliefs?
+To what extent do these beliefs and associated activities serve to enrich and help the lives of those who hold them? 
+Do associated actions or activities cause harm?
+Are harmful practices or experiences being reinterpreted, rationalised or explained away?
+
+By asking these kinds of questions, it also becomes easier to raise specific objections to beliefs and practices which might cause harm. While other beliefs and practices, even if they cannot be proved ‘true’ – can be very useful and even beneficial for their adherents.
+
+Even if we remain relatively ignorant about things - like what happens after death, we can still evaluate the application of these beliefs and associated practices in people’s lives.
