@@ -80,15 +80,23 @@ def fetch(url, retries=5, delay=4):
         except urllib.error.HTTPError as e:
             if e.code == 502 and attempt < retries - 1:
                 wait = delay * (attempt + 1)
-                print(f"\n  502 error, retrying in {wait}s (attempt {attempt+2}/{retries})...",
-                      end=' ', flush=True)
+                print(f"\n  502, retrying in {wait}s...", end=' ', flush=True)
                 time.sleep(wait)
             else:
-                print(f"\n  ERROR {e.code}: {url}", file=sys.stderr)
-                return None
+                break
         except Exception as e:
             print(f"\n  ERROR: {e}", file=sys.stderr)
             return None
+    # Fallback: try Wayback Machine
+    wayback = "https://web.archive.org/web/2022/" + url
+    print(f"\n  Trying Wayback Machine...", end=' ', flush=True)
+    try:
+        req2 = urllib.request.Request(wayback, headers={'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req2, timeout=30) as r:
+            return r.read().decode('utf-8', errors='replace')
+    except Exception as e:
+        print(f"\n  WAYBACK FAIL: {e}", file=sys.stderr)
+        return None
 
 def download_image(url, local_path):
     """Download an image if not already present."""
