@@ -6,6 +6,8 @@ author: Suzanne Newcombe
 permalink: /blog/krishnamacharya-yoga-indigenous-medicine/
 ---
 
+![](/assets/images/posts/krishnamacharya_mysoreschool.jpg)
+
 In 1946, on the eve of full independence from Britain, the Government of India announced the establishment of a committee to recommend necessary steps to ‘improve facilities for research and training in indigenous systems and generally to increase their usefulness to the public’ (p. 9). The committee began by drawing up several sets of questionnaires to survey medical practitioners of all persuasions throughout the country, as well as provincial governments, teaching institutions and pharmacies on the subject of medical provision.
 
  
