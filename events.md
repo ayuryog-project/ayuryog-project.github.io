@@ -4,8 +4,6 @@ title: Events
 permalink: /events/
 ---
 
-This page lists past events associated with the AyurYog project (2015–2020).
-
 ## Conferences
 
 ### [Medicine and Yoga in South and Inner Asia]({{ '/events/conference-medicine-yoga-2017/' | relative_url }})
@@ -16,6 +14,10 @@ Body Cultivation, Therapeutic Intervention and the Sowa Rigpa Industry. A joint 
 ## Workshops
 
 ### AyurYog Workshop: Rejuvenation, Longevity, Immortality
-**University of Vienna, October 2016**
+**University of Vienna, 21–22 October 2016**
 
 Perspectives on rasāyana, kāyakalpa and bcud len practices. See the [blog post]({{ '/blog/workshop-rasayana-kayakalpa-bcud-len/' | relative_url }}) for details.
+
+---
+
+For a full listing of past talks, presentations, and events, see the [Past Events]({{ '/pastevents/' | relative_url }}) page.
