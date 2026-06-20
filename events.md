@@ -18,4 +18,4 @@ Body Cultivation, Therapeutic Intervention and the Sowa Rigpa Industry. A joint 
 ### AyurYog Workshop: Rejuvenation, Longevity, Immortality
 **University of Vienna, October 2016**
 
-Perspectives on rasāyana, kāyakalpa and bcud len practices. See the [blog post]({{ '/blog/ayuryog-workshop-rejuvenation-longevity-immortality-perspectives-rasayana-kayakalpa-and-bcud/' | relative_url }}) for details.
+Perspectives on rasāyana, kāyakalpa and bcud len practices. See the [blog post]({{ '/blog/workshop-rasayana-kayakalpa-bcud-len/' | relative_url }}) for details.
