@@ -96,7 +96,7 @@ While the Sanskrit text of the *Haṭhābhyāsapaddhati* was read, and this pict
 
  
 
-![Haṭha Yoga Project Workshop October 2016 at SOAS, photo by Jacqueline Hargreaves](/home/dom/ayuryog-jekyll/ayuryog/assets/images/posts/soas_hatha_yoga_project_workshop.jpg)
+![Haṭha Yoga Project Workshop October 2016 at SOAS, photo by Jacqueline Hargreaves](/assets/images/posts/soas_hatha_yoga_project_workshop.jpg)
 
  (Photograph by Jacqueline Hargreaves 2016)
 
