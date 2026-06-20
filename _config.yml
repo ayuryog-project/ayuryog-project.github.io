@@ -1,0 +1,23 @@
+title: AyurYog
+description: >
+  Entangled Histories of Yoga, Ayurveda and Alchemy in South Asia 2015–2020
+baseurl: ""
+url: "https://ayuryog.org"
+
+permalink: /:path/
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+plugins:
+  - jekyll-seo-tag
+
+markdown: kramdown
+highlighter: rouge
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
