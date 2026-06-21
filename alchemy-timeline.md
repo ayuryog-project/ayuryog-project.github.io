@@ -13,6 +13,9 @@ permalink: /alchemy-timeline/
   <iframe class="responsive-iframe"
     src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1yjEcR9duFGgqWhSwAVkar-TLpAy9cwiz-Zfl4RJcMSk&font=Georgia-Helvetica&lang=en&initial_zoom=2"
     frameborder="0"
-    allowfullscreen>
+    allowfullscreen
+    allow="fullscreen"
+    referrerpolicy="no-referrer-when-downgrade"
+    title="Alchemy Timeline">
   </iframe>
 </div>

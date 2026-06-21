@@ -13,6 +13,9 @@ permalink: /timeline/
   <iframe class="responsive-iframe"
     src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1dBCqdbnTY9wQmubX--yOtRGC0T3jEShz5WJTR5hIotU&font=Georgia-Helvetica&lang=en&initial_zoom=2"
     frameborder="0"
-    allowfullscreen>
+    allowfullscreen
+    allow="fullscreen"
+    referrerpolicy="no-referrer-when-downgrade"
+    title="Yoga and Ayurveda Timeline">
   </iframe>
 </div>
