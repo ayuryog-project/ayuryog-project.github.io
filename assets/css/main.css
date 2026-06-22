@@ -107,6 +107,14 @@ hr { border: none; border-top: 1px solid #ddd; margin: 2em 0; }
 main { max-width: 900px; margin: 0 auto; padding: 2.5rem 1.5rem 4rem; }
 
 /* ---- Home ---- */
+.home-hero-image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto 2rem;
+}
+
+
 .home-intro { max-width: 680px; margin: 3rem auto; text-align: center; }
 .home-intro h1 { font-size: 1.9rem; margin-bottom: 1.2rem; color: #1a1a1a; }
 .home-intro p { font-size: 1.08rem; color: #333; }
